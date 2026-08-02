@@ -1,0 +1,6681 @@
+{
+  "version": 1,
+  "exercises": [
+    {
+      "id": "ex_smith_bench",
+      "name": "史密斯卧推",
+      "tags": [
+        "胸"
+      ]
+    },
+    {
+      "id": "ex_smith_incline_bench",
+      "name": "上斜史密斯卧推",
+      "tags": [
+        "胸"
+      ]
+    },
+    {
+      "id": "ex_bb_bench",
+      "name": "杠铃卧推",
+      "tags": [
+        "胸"
+      ]
+    },
+    {
+      "id": "ex_chest_press_machine",
+      "name": "推胸机",
+      "tags": [
+        "胸"
+      ]
+    },
+    {
+      "id": "ex_db_incline_shoulder",
+      "name": "坐姿上斜哑铃肩推",
+      "tags": [
+        "肩"
+      ]
+    },
+    {
+      "id": "ex_smith_shoulder",
+      "name": "史密斯肩推",
+      "tags": [
+        "肩"
+      ]
+    },
+    {
+      "id": "ex_db_shoulder",
+      "name": "哑铃肩推",
+      "tags": [
+        "肩"
+      ]
+    },
+    {
+      "id": "ex_rear_delt_fly",
+      "name": "肩后束蝴蝶机",
+      "tags": [
+        "肩"
+      ]
+    },
+    {
+      "id": "ex_db_lateral",
+      "name": "哑铃侧平举",
+      "tags": [
+        "肩"
+      ]
+    },
+    {
+      "id": "ex_face_pull",
+      "name": "绳索面拉",
+      "tags": [
+        "肩",
+        "背"
+      ]
+    },
+    {
+      "id": "ex_tricep_pushdown",
+      "name": "绳索三头下压",
+      "tags": [
+        "臂"
+      ]
+    },
+    {
+      "id": "ex_assisted_dip",
+      "name": "辅助双杠臂屈伸",
+      "tags": [
+        "臂"
+      ]
+    },
+    {
+      "id": "ex_db_curl",
+      "name": "哑铃弯举",
+      "tags": [
+        "臂"
+      ]
+    },
+    {
+      "id": "ex_machine_curl",
+      "name": "器械弯举",
+      "tags": [
+        "臂"
+      ]
+    },
+    {
+      "id": "ex_goblet_squat",
+      "name": "高脚杯哑铃深蹲",
+      "tags": [
+        "臀腿"
+      ]
+    },
+    {
+      "id": "ex_smith_squat",
+      "name": "史密斯深蹲",
+      "tags": [
+        "臀腿"
+      ]
+    },
+    {
+      "id": "ex_bb_squat",
+      "name": "杠铃深蹲",
+      "tags": [
+        "臀腿"
+      ]
+    },
+    {
+      "id": "ex_rdl",
+      "name": "罗马尼亚硬拉",
+      "tags": [
+        "臀腿"
+      ]
+    },
+    {
+      "id": "ex_bb_dl",
+      "name": "杠铃硬拉",
+      "tags": [
+        "臀腿"
+      ]
+    },
+    {
+      "id": "ex_bulgarian",
+      "name": "保加利亚分腿蹲",
+      "tags": [
+        "臀腿"
+      ]
+    },
+    {
+      "id": "ex_hip_adduction",
+      "name": "坐姿髋内收",
+      "tags": [
+        "臀腿"
+      ]
+    },
+    {
+      "id": "ex_hip_abduction",
+      "name": "坐姿髋外展",
+      "tags": [
+        "臀腿"
+      ]
+    },
+    {
+      "id": "ex_back_extension",
+      "name": "山羊挺身",
+      "tags": [
+        "背",
+        "臀腿"
+      ]
+    },
+    {
+      "id": "ex_hip_thrust",
+      "name": "臀推",
+      "tags": [
+        "臀腿"
+      ]
+    },
+    {
+      "id": "ex_band_lateral",
+      "name": "弹力带侧抬腿",
+      "tags": [
+        "臀腿"
+      ]
+    },
+    {
+      "id": "ex_row_plate",
+      "name": "坐姿划船（配重片）",
+      "tags": [
+        "背"
+      ]
+    },
+    {
+      "id": "ex_row_single",
+      "name": "坐姿划船（单滑轮）",
+      "tags": [
+        "背"
+      ]
+    },
+    {
+      "id": "ex_row_dual",
+      "name": "坐姿划船（双滑轮）",
+      "tags": [
+        "背"
+      ]
+    },
+    {
+      "id": "ex_assisted_pullup",
+      "name": "辅助引体向上",
+      "tags": [
+        "背"
+      ]
+    },
+    {
+      "id": "ex_reverse_row",
+      "name": "反握坐姿划船",
+      "tags": [
+        "背"
+      ]
+    },
+    {
+      "id": "ex_bb_row",
+      "name": "杠铃划船",
+      "tags": [
+        "背"
+      ]
+    },
+    {
+      "id": "ex_lat_plate",
+      "name": "高位下拉（配重片）",
+      "tags": [
+        "背"
+      ]
+    },
+    {
+      "id": "ex_lat_single",
+      "name": "高位下拉（单滑轮）",
+      "tags": [
+        "背"
+      ]
+    },
+    {
+      "id": "ex_lat_dual",
+      "name": "高位下拉（双滑轮）",
+      "tags": [
+        "背"
+      ]
+    },
+    {
+      "id": "ex_straight_arm",
+      "name": "直臂下压",
+      "tags": [
+        "背"
+      ]
+    },
+    {
+      "id": "ex_bosu_leg_raise",
+      "name": "波速球举腿",
+      "tags": [
+        "核心"
+      ]
+    }
+  ],
+  "templates": [
+    {
+      "id": "tpl_chest_shoulder",
+      "name": "胸肩",
+      "exerciseIds": [
+        "ex_bb_bench",
+        "ex_db_shoulder",
+        "ex_db_lateral",
+        "ex_assisted_dip"
+      ]
+    },
+    {
+      "id": "tpl_legs",
+      "name": "臀腿",
+      "exerciseIds": [
+        "ex_smith_squat",
+        "ex_rdl",
+        "ex_hip_thrust"
+      ]
+    },
+    {
+      "id": "tpl_back",
+      "name": "背",
+      "exerciseIds": [
+        "ex_assisted_pullup",
+        "ex_row_dual",
+        "ex_lat_dual",
+        "ex_straight_arm",
+        "ex_db_curl"
+      ]
+    }
+  ],
+  "workouts": [
+    {
+      "id": "wd_j43",
+      "date": "2026-07-31",
+      "focus": "胸肩",
+      "exercises": [
+        {
+          "id": "we_j186",
+          "exerciseId": "ex_bb_bench",
+          "name": "杠铃卧推",
+          "sets": [
+            {
+              "id": "set_j734",
+              "weightKg": 2.5,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j735",
+              "weightKg": 2.5,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j736",
+              "weightKg": 2.5,
+              "reps": 10,
+              "done": true
+            },
+            {
+              "id": "set_j737",
+              "weightKg": 2.5,
+              "reps": 10,
+              "done": true
+            }
+          ],
+          "note": "自由卧推；自觉轻松，下次可加片"
+        },
+        {
+          "id": "we_j187",
+          "exerciseId": "ex_db_shoulder",
+          "name": "哑铃肩推",
+          "sets": [
+            {
+              "id": "set_j738",
+              "weightKg": 7.5,
+              "reps": 8,
+              "done": true
+            },
+            {
+              "id": "set_j739",
+              "weightKg": 7.5,
+              "reps": 8,
+              "done": true
+            },
+            {
+              "id": "set_j740",
+              "weightKg": 7.5,
+              "reps": 8,
+              "done": true
+            },
+            {
+              "id": "set_j741",
+              "weightKg": 7.5,
+              "reps": 10,
+              "done": true
+            }
+          ],
+          "note": "肩推进步慢"
+        },
+        {
+          "id": "we_j188",
+          "exerciseId": "ex_db_lateral",
+          "name": "哑铃侧平举",
+          "sets": [
+            {
+              "id": "set_j742",
+              "weightKg": 5,
+              "reps": 10,
+              "done": true
+            },
+            {
+              "id": "set_j743",
+              "weightKg": 5,
+              "reps": 10,
+              "done": true
+            },
+            {
+              "id": "set_j744",
+              "weightKg": 5,
+              "reps": 10,
+              "done": true
+            },
+            {
+              "id": "set_j745",
+              "weightKg": 5,
+              "reps": 10,
+              "done": true
+            }
+          ]
+        },
+        {
+          "id": "we_j189",
+          "exerciseId": "ex_assisted_dip",
+          "name": "辅助双杠臂屈伸",
+          "sets": [
+            {
+              "id": "set_j746",
+              "weightKg": 28,
+              "reps": 8,
+              "done": true
+            },
+            {
+              "id": "set_j747",
+              "weightKg": 28,
+              "reps": 8,
+              "done": true
+            },
+            {
+              "id": "set_j748",
+              "weightKg": 28,
+              "reps": 8,
+              "done": true
+            },
+            {
+              "id": "set_j749",
+              "weightKg": 28,
+              "reps": 8,
+              "done": true
+            }
+          ]
+        }
+      ],
+      "performance": 0,
+      "fatigue": 0,
+      "note": "",
+      "savedAt": "2026-07-31T12:00:00.000Z"
+    },
+    {
+      "id": "wd_j42",
+      "date": "2026-07-29",
+      "focus": "背",
+      "exercises": [
+        {
+          "id": "we_j181",
+          "exerciseId": "ex_assisted_pullup",
+          "name": "辅助引体向上",
+          "sets": [
+            {
+              "id": "set_j713",
+              "weightKg": 31,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j714",
+              "weightKg": 31,
+              "reps": 10,
+              "done": true
+            },
+            {
+              "id": "set_j715",
+              "weightKg": 31,
+              "reps": 10,
+              "done": true
+            },
+            {
+              "id": "set_j716",
+              "weightKg": 31,
+              "reps": 8,
+              "done": true
+            },
+            {
+              "id": "set_j717",
+              "weightKg": 31,
+              "reps": 6,
+              "done": true
+            }
+          ]
+        },
+        {
+          "id": "we_j182",
+          "exerciseId": "ex_lat_dual",
+          "name": "高位下拉（双滑轮）",
+          "sets": [
+            {
+              "id": "set_j718",
+              "weightKg": 14,
+              "reps": 10,
+              "done": true
+            },
+            {
+              "id": "set_j719",
+              "weightKg": 14,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j720",
+              "weightKg": 14,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j721",
+              "weightKg": 16,
+              "reps": 12,
+              "done": true
+            }
+          ],
+          "note": "双滑轮；末组 13+3；原记带问号按12次录入"
+        },
+        {
+          "id": "we_j183",
+          "exerciseId": "ex_straight_arm",
+          "name": "直臂下压",
+          "sets": [
+            {
+              "id": "set_j722",
+              "weightKg": 11,
+              "reps": 10,
+              "done": true
+            },
+            {
+              "id": "set_j723",
+              "weightKg": 11,
+              "reps": 10,
+              "done": true
+            },
+            {
+              "id": "set_j724",
+              "weightKg": 11,
+              "reps": 10,
+              "done": true
+            },
+            {
+              "id": "set_j725",
+              "weightKg": 11,
+              "reps": 10,
+              "done": true
+            }
+          ]
+        },
+        {
+          "id": "we_j184",
+          "exerciseId": "ex_row_dual",
+          "name": "坐姿划船（双滑轮）",
+          "sets": [
+            {
+              "id": "set_j726",
+              "weightKg": 14,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j727",
+              "weightKg": 14,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j728",
+              "weightKg": 14,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j729",
+              "weightKg": 14,
+              "reps": 12,
+              "done": true
+            }
+          ],
+          "note": "双滑轮车把"
+        },
+        {
+          "id": "we_j185",
+          "exerciseId": "ex_db_curl",
+          "name": "哑铃弯举",
+          "sets": [
+            {
+              "id": "set_j730",
+              "weightKg": 6.25,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j731",
+              "weightKg": 6.25,
+              "reps": 8,
+              "done": true
+            },
+            {
+              "id": "set_j732",
+              "weightKg": 6.25,
+              "reps": 8,
+              "done": true
+            },
+            {
+              "id": "set_j733",
+              "weightKg": 6.25,
+              "reps": 6,
+              "done": true
+            }
+          ]
+        }
+      ],
+      "performance": 0,
+      "fatigue": 0,
+      "note": "",
+      "savedAt": "2026-07-29T12:00:00.000Z"
+    },
+    {
+      "id": "wd_j41",
+      "date": "2026-07-26",
+      "focus": "臀腿",
+      "exercises": [
+        {
+          "id": "we_j178",
+          "exerciseId": "ex_smith_squat",
+          "name": "史密斯深蹲",
+          "sets": [
+            {
+              "id": "set_j699",
+              "weightKg": 10,
+              "reps": 6,
+              "done": true
+            },
+            {
+              "id": "set_j700",
+              "weightKg": 10,
+              "reps": 6,
+              "done": true
+            },
+            {
+              "id": "set_j701",
+              "weightKg": 10,
+              "reps": 6,
+              "done": true
+            },
+            {
+              "id": "set_j702",
+              "weightKg": 10,
+              "reps": 6,
+              "done": true
+            },
+            {
+              "id": "set_j703",
+              "weightKg": 10,
+              "reps": 6,
+              "done": true
+            },
+            {
+              "id": "set_j704",
+              "weightKg": 10,
+              "reps": 6,
+              "done": true
+            }
+          ]
+        },
+        {
+          "id": "we_j179",
+          "exerciseId": "ex_rdl",
+          "name": "罗马尼亚硬拉",
+          "sets": [
+            {
+              "id": "set_j705",
+              "weightKg": 8.75,
+              "reps": 10,
+              "done": true
+            },
+            {
+              "id": "set_j706",
+              "weightKg": 8.75,
+              "reps": 10,
+              "done": true
+            },
+            {
+              "id": "set_j707",
+              "weightKg": 8.75,
+              "reps": 10,
+              "done": true
+            },
+            {
+              "id": "set_j708",
+              "weightKg": 8.75,
+              "reps": 10,
+              "done": true
+            }
+          ]
+        },
+        {
+          "id": "we_j180",
+          "exerciseId": "ex_hip_thrust",
+          "name": "臀推",
+          "sets": [
+            {
+              "id": "set_j709",
+              "weightKg": 12.5,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j710",
+              "weightKg": 12.5,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j711",
+              "weightKg": 12.5,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j712",
+              "weightKg": 12.5,
+              "reps": 12,
+              "done": true
+            }
+          ]
+        }
+      ],
+      "performance": 0,
+      "fatigue": 0,
+      "note": "",
+      "savedAt": "2026-07-26T12:00:00.000Z"
+    },
+    {
+      "id": "wd_j40",
+      "date": "2026-07-24",
+      "focus": "胸肩",
+      "exercises": [
+        {
+          "id": "we_j174",
+          "exerciseId": "ex_smith_bench",
+          "name": "史密斯卧推",
+          "sets": [
+            {
+              "id": "set_j682",
+              "weightKg": 7.5,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j683",
+              "weightKg": 7.5,
+              "reps": 10,
+              "done": true
+            },
+            {
+              "id": "set_j684",
+              "weightKg": 7.5,
+              "reps": 8,
+              "done": true
+            },
+            {
+              "id": "set_j685",
+              "weightKg": 7.5,
+              "reps": 8,
+              "done": true
+            }
+          ],
+          "note": "自觉状态差；怀疑晚餐过少"
+        },
+        {
+          "id": "we_j175",
+          "exerciseId": "ex_db_shoulder",
+          "name": "哑铃肩推",
+          "sets": [
+            {
+              "id": "set_j686",
+              "weightKg": 7.5,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j687",
+              "weightKg": 7.5,
+              "reps": 10,
+              "done": true
+            },
+            {
+              "id": "set_j688",
+              "weightKg": 7.5,
+              "reps": 8,
+              "done": true
+            },
+            {
+              "id": "set_j689",
+              "weightKg": 7.5,
+              "reps": 6,
+              "done": true
+            },
+            {
+              "id": "set_j690",
+              "weightKg": 7.5,
+              "reps": 6,
+              "done": true
+            }
+          ]
+        },
+        {
+          "id": "we_j176",
+          "exerciseId": "ex_db_lateral",
+          "name": "哑铃侧平举",
+          "sets": [
+            {
+              "id": "set_j691",
+              "weightKg": 5,
+              "reps": 10,
+              "done": true
+            },
+            {
+              "id": "set_j692",
+              "weightKg": 5,
+              "reps": 10,
+              "done": true
+            },
+            {
+              "id": "set_j693",
+              "weightKg": 5,
+              "reps": 10,
+              "done": true
+            },
+            {
+              "id": "set_j694",
+              "weightKg": 5,
+              "reps": 10,
+              "done": true
+            }
+          ]
+        },
+        {
+          "id": "we_j177",
+          "exerciseId": "ex_tricep_pushdown",
+          "name": "绳索三头下压",
+          "sets": [
+            {
+              "id": "set_j695",
+              "weightKg": 10,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j696",
+              "weightKg": 10,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j697",
+              "weightKg": 10,
+              "reps": 10,
+              "done": true
+            },
+            {
+              "id": "set_j698",
+              "weightKg": 11,
+              "reps": 12,
+              "done": true
+            }
+          ]
+        }
+      ],
+      "performance": 0,
+      "fatigue": 0,
+      "note": "",
+      "savedAt": "2026-07-24T12:00:00.000Z"
+    },
+    {
+      "id": "wd_j39",
+      "date": "2026-07-22",
+      "focus": "背",
+      "exercises": [
+        {
+          "id": "we_j170",
+          "exerciseId": "ex_assisted_pullup",
+          "name": "辅助引体向上",
+          "sets": [
+            {
+              "id": "set_j666",
+              "weightKg": 31,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j667",
+              "weightKg": 31,
+              "reps": 10,
+              "done": true
+            },
+            {
+              "id": "set_j668",
+              "weightKg": 31,
+              "reps": 8,
+              "done": true
+            },
+            {
+              "id": "set_j669",
+              "weightKg": 31,
+              "reps": 8,
+              "done": true
+            },
+            {
+              "id": "set_j670",
+              "weightKg": 31,
+              "reps": 8,
+              "done": true
+            }
+          ],
+          "note": "有意加大幅度，比上次标准"
+        },
+        {
+          "id": "we_j171",
+          "exerciseId": "ex_row_dual",
+          "name": "坐姿划船（双滑轮）",
+          "sets": [
+            {
+              "id": "set_j671",
+              "weightKg": 14,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j672",
+              "weightKg": 14,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j673",
+              "weightKg": 14,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j674",
+              "weightKg": 14,
+              "reps": 12,
+              "done": true
+            }
+          ],
+          "note": "双滑轮车把 13+1"
+        },
+        {
+          "id": "we_j172",
+          "exerciseId": "ex_straight_arm",
+          "name": "直臂下压",
+          "sets": [
+            {
+              "id": "set_j675",
+              "weightKg": 10,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j676",
+              "weightKg": 11,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j677",
+              "weightKg": 11,
+              "reps": 12,
+              "done": true
+            }
+          ]
+        },
+        {
+          "id": "we_j173",
+          "exerciseId": "ex_lat_dual",
+          "name": "高位下拉（双滑轮）",
+          "sets": [
+            {
+              "id": "set_j678",
+              "weightKg": 14,
+              "reps": 10,
+              "done": true
+            },
+            {
+              "id": "set_j679",
+              "weightKg": 14,
+              "reps": 10,
+              "done": true
+            },
+            {
+              "id": "set_j680",
+              "weightKg": 14,
+              "reps": 8,
+              "done": true
+            },
+            {
+              "id": "set_j681",
+              "weightKg": 14,
+              "reps": 8,
+              "done": true
+            }
+          ],
+          "note": "宽距双滑轮；顺序靠后已力竭"
+        }
+      ],
+      "performance": 0,
+      "fatigue": 0,
+      "note": "人多，顺序受影响",
+      "savedAt": "2026-07-22T12:00:00.000Z"
+    },
+    {
+      "id": "wd_j38",
+      "date": "2026-07-20",
+      "focus": "臀腿",
+      "exercises": [
+        {
+          "id": "we_j167",
+          "exerciseId": "ex_smith_squat",
+          "name": "史密斯深蹲",
+          "sets": [
+            {
+              "id": "set_j652",
+              "weightKg": 10,
+              "reps": 6,
+              "done": true
+            },
+            {
+              "id": "set_j653",
+              "weightKg": 10,
+              "reps": 6,
+              "done": true
+            },
+            {
+              "id": "set_j654",
+              "weightKg": 10,
+              "reps": 6,
+              "done": true
+            },
+            {
+              "id": "set_j655",
+              "weightKg": 10,
+              "reps": 6,
+              "done": true
+            },
+            {
+              "id": "set_j656",
+              "weightKg": 10,
+              "reps": 6,
+              "done": true
+            },
+            {
+              "id": "set_j657",
+              "weightKg": 10,
+              "reps": 6,
+              "done": true
+            }
+          ]
+        },
+        {
+          "id": "we_j168",
+          "exerciseId": "ex_rdl",
+          "name": "罗马尼亚硬拉",
+          "sets": [
+            {
+              "id": "set_j658",
+              "weightKg": 7.5,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j659",
+              "weightKg": 7.5,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j660",
+              "weightKg": 7.5,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j661",
+              "weightKg": 8.25,
+              "reps": 12,
+              "done": true
+            }
+          ],
+          "note": "8.25 很痛苦"
+        },
+        {
+          "id": "we_j169",
+          "exerciseId": "ex_hip_thrust",
+          "name": "臀推",
+          "sets": [
+            {
+              "id": "set_j662",
+              "weightKg": 12.5,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j663",
+              "weightKg": 12.5,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j664",
+              "weightKg": 12.5,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j665",
+              "weightKg": 12.5,
+              "reps": 12,
+              "done": true
+            }
+          ],
+          "note": "强度极高"
+        }
+      ],
+      "performance": 0,
+      "fatigue": 4,
+      "note": "今天要加班心情不好",
+      "savedAt": "2026-07-20T12:00:00.000Z"
+    },
+    {
+      "id": "wd_j37",
+      "date": "2026-07-17",
+      "focus": "胸肩",
+      "exercises": [
+        {
+          "id": "we_j163",
+          "exerciseId": "ex_db_shoulder",
+          "name": "哑铃肩推",
+          "sets": [
+            {
+              "id": "set_j636",
+              "weightKg": 7.5,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j637",
+              "weightKg": 7.5,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j638",
+              "weightKg": 7.5,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j639",
+              "weightKg": 7.5,
+              "reps": 12,
+              "done": true
+            }
+          ],
+          "note": "坐姿"
+        },
+        {
+          "id": "we_j164",
+          "exerciseId": "ex_smith_bench",
+          "name": "史密斯卧推",
+          "sets": [
+            {
+              "id": "set_j640",
+              "weightKg": 7.5,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j641",
+              "weightKg": 7.5,
+              "reps": 10,
+              "done": true
+            },
+            {
+              "id": "set_j642",
+              "weightKg": 7.5,
+              "reps": 10,
+              "done": true
+            },
+            {
+              "id": "set_j643",
+              "weightKg": 7.5,
+              "reps": 10,
+              "done": true
+            }
+          ],
+          "note": "自由卧推人太多改史密斯"
+        },
+        {
+          "id": "we_j165",
+          "exerciseId": "ex_db_lateral",
+          "name": "哑铃侧平举",
+          "sets": [
+            {
+              "id": "set_j644",
+              "weightKg": 5,
+              "reps": 10,
+              "done": true
+            },
+            {
+              "id": "set_j645",
+              "weightKg": 5,
+              "reps": 10,
+              "done": true
+            },
+            {
+              "id": "set_j646",
+              "weightKg": 5,
+              "reps": 10,
+              "done": true
+            },
+            {
+              "id": "set_j647",
+              "weightKg": 5,
+              "reps": 10,
+              "done": true
+            }
+          ],
+          "note": "侧平举飞鸟"
+        },
+        {
+          "id": "we_j166",
+          "exerciseId": "ex_assisted_dip",
+          "name": "辅助双杠臂屈伸",
+          "sets": [
+            {
+              "id": "set_j648",
+              "weightKg": 31,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j649",
+              "weightKg": 31,
+              "reps": 10,
+              "done": true
+            },
+            {
+              "id": "set_j650",
+              "weightKg": 31,
+              "reps": 10,
+              "done": true
+            },
+            {
+              "id": "set_j651",
+              "weightKg": 31,
+              "reps": 10,
+              "done": true
+            }
+          ]
+        }
+      ],
+      "performance": 0,
+      "fatigue": 0,
+      "note": "",
+      "savedAt": "2026-07-17T12:00:00.000Z"
+    },
+    {
+      "id": "wd_j36",
+      "date": "2026-07-15",
+      "focus": "背",
+      "exercises": [
+        {
+          "id": "we_j159",
+          "exerciseId": "ex_assisted_pullup",
+          "name": "辅助引体向上",
+          "sets": [
+            {
+              "id": "set_j621",
+              "weightKg": 32,
+              "reps": 10,
+              "done": true
+            },
+            {
+              "id": "set_j622",
+              "weightKg": 32,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j623",
+              "weightKg": 32,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j624",
+              "weightKg": 32,
+              "reps": 10,
+              "done": true
+            }
+          ],
+          "note": "仍吃力"
+        },
+        {
+          "id": "we_j160",
+          "exerciseId": "ex_lat_single",
+          "name": "高位下拉（单滑轮）",
+          "sets": [
+            {
+              "id": "set_j625",
+              "weightKg": 28,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j626",
+              "weightKg": 28,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j627",
+              "weightKg": 28,
+              "reps": 10,
+              "done": true
+            },
+            {
+              "id": "set_j628",
+              "weightKg": 28,
+              "reps": 8,
+              "done": true
+            }
+          ],
+          "note": "受不了了"
+        },
+        {
+          "id": "we_j161",
+          "exerciseId": "ex_row_dual",
+          "name": "坐姿划船（双滑轮）",
+          "sets": [
+            {
+              "id": "set_j629",
+              "weightKg": 14,
+              "reps": 10,
+              "done": true
+            },
+            {
+              "id": "set_j630",
+              "weightKg": 14,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j631",
+              "weightKg": 14,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j632",
+              "weightKg": 14,
+              "reps": 12,
+              "done": true
+            }
+          ],
+          "note": "宽距划船双滑轮"
+        },
+        {
+          "id": "we_j162",
+          "exerciseId": "ex_straight_arm",
+          "name": "直臂下压",
+          "sets": [
+            {
+              "id": "set_j633",
+              "weightKg": 11,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j634",
+              "weightKg": 11,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j635",
+              "weightKg": 11,
+              "reps": 10,
+              "done": true
+            }
+          ]
+        }
+      ],
+      "performance": 0,
+      "fatigue": 0,
+      "note": "耐力渐渐耗尽",
+      "savedAt": "2026-07-15T12:00:00.000Z"
+    },
+    {
+      "id": "wd_j35",
+      "date": "2026-07-13",
+      "focus": "臀腿",
+      "exercises": [
+        {
+          "id": "we_j156",
+          "exerciseId": "ex_smith_squat",
+          "name": "史密斯深蹲",
+          "sets": [
+            {
+              "id": "set_j608",
+              "weightKg": 7.5,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j609",
+              "weightKg": 7.5,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j610",
+              "weightKg": 7.5,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j611",
+              "weightKg": 7.5,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j612",
+              "weightKg": 10,
+              "reps": 5,
+              "done": true
+            }
+          ],
+          "note": "7.5很累心肺差；10kg尝试，下次可试"
+        },
+        {
+          "id": "we_j157",
+          "exerciseId": "ex_bb_dl",
+          "name": "杠铃硬拉",
+          "sets": [
+            {
+              "id": "set_j613",
+              "weightKg": 7.5,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j614",
+              "weightKg": 7.5,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j615",
+              "weightKg": 7.5,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j616",
+              "weightKg": 7.5,
+              "reps": 12,
+              "done": true
+            }
+          ],
+          "note": "硬拉；心肺爆炸"
+        },
+        {
+          "id": "we_j158",
+          "exerciseId": "ex_hip_thrust",
+          "name": "臀推",
+          "sets": [
+            {
+              "id": "set_j617",
+              "weightKg": 12.5,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j618",
+              "weightKg": 12.5,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j619",
+              "weightKg": 12.5,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j620",
+              "weightKg": 12.5,
+              "reps": 12,
+              "done": true
+            }
+          ]
+        }
+      ],
+      "performance": 0,
+      "fatigue": 0,
+      "note": "",
+      "savedAt": "2026-07-13T12:00:00.000Z"
+    },
+    {
+      "id": "wd_j34",
+      "date": "2026-07-11",
+      "focus": "胸肩",
+      "exercises": [
+        {
+          "id": "we_j152",
+          "exerciseId": "ex_bb_bench",
+          "name": "杠铃卧推",
+          "sets": [
+            {
+              "id": "set_j592",
+              "weightKg": 1.25,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j593",
+              "weightKg": 2.5,
+              "reps": 8,
+              "done": true
+            },
+            {
+              "id": "set_j594",
+              "weightKg": 2.5,
+              "reps": 8,
+              "done": true
+            },
+            {
+              "id": "set_j595",
+              "weightKg": 2.5,
+              "reps": 8,
+              "done": true
+            }
+          ],
+          "note": "1.25 热身；平板"
+        },
+        {
+          "id": "we_j153",
+          "exerciseId": "ex_db_shoulder",
+          "name": "哑铃肩推",
+          "sets": [
+            {
+              "id": "set_j596",
+              "weightKg": 7.5,
+              "reps": 10,
+              "done": true
+            },
+            {
+              "id": "set_j597",
+              "weightKg": 7.5,
+              "reps": 10,
+              "done": true
+            },
+            {
+              "id": "set_j598",
+              "weightKg": 7.5,
+              "reps": 10,
+              "done": true
+            },
+            {
+              "id": "set_j599",
+              "weightKg": 7.5,
+              "reps": 10,
+              "done": true
+            }
+          ]
+        },
+        {
+          "id": "we_j154",
+          "exerciseId": "ex_db_lateral",
+          "name": "哑铃侧平举",
+          "sets": [
+            {
+              "id": "set_j600",
+              "weightKg": 5,
+              "reps": 10,
+              "done": true
+            },
+            {
+              "id": "set_j601",
+              "weightKg": 5,
+              "reps": 10,
+              "done": true
+            },
+            {
+              "id": "set_j602",
+              "weightKg": 5,
+              "reps": 10,
+              "done": true
+            },
+            {
+              "id": "set_j603",
+              "weightKg": 5,
+              "reps": 10,
+              "done": true
+            }
+          ],
+          "note": "侧平举飞鸟"
+        },
+        {
+          "id": "we_j155",
+          "exerciseId": "ex_assisted_dip",
+          "name": "辅助双杠臂屈伸",
+          "sets": [
+            {
+              "id": "set_j604",
+              "weightKg": 31,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j605",
+              "weightKg": 31,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j606",
+              "weightKg": 31,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j607",
+              "weightKg": 31,
+              "reps": 12,
+              "done": true
+            }
+          ]
+        }
+      ],
+      "performance": 0,
+      "fatigue": 0,
+      "note": "一周感冒后恢复训练",
+      "savedAt": "2026-07-11T12:00:00.000Z"
+    },
+    {
+      "id": "wd_j33",
+      "date": "2026-07-03",
+      "focus": "背",
+      "exercises": [
+        {
+          "id": "we_j147",
+          "exerciseId": "ex_assisted_pullup",
+          "name": "辅助引体向上",
+          "sets": [
+            {
+              "id": "set_j573",
+              "weightKg": 32,
+              "reps": 10,
+              "done": true
+            },
+            {
+              "id": "set_j574",
+              "weightKg": 32,
+              "reps": 10,
+              "done": true
+            },
+            {
+              "id": "set_j575",
+              "weightKg": 32,
+              "reps": 8,
+              "done": true
+            },
+            {
+              "id": "set_j576",
+              "weightKg": 32,
+              "reps": 8,
+              "done": true
+            }
+          ]
+        },
+        {
+          "id": "we_j148",
+          "exerciseId": "ex_row_single",
+          "name": "坐姿划船（单滑轮）",
+          "sets": [
+            {
+              "id": "set_j577",
+              "weightKg": 28,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j578",
+              "weightKg": 28,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j579",
+              "weightKg": 28,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j580",
+              "weightKg": 28,
+              "reps": 12,
+              "done": true
+            }
+          ],
+          "note": "更稳定"
+        },
+        {
+          "id": "we_j149",
+          "exerciseId": "ex_straight_arm",
+          "name": "直臂下压",
+          "sets": [
+            {
+              "id": "set_j581",
+              "weightKg": 11,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j582",
+              "weightKg": 11,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j583",
+              "weightKg": 11,
+              "reps": 12,
+              "done": true
+            }
+          ]
+        },
+        {
+          "id": "we_j150",
+          "exerciseId": "ex_lat_single",
+          "name": "高位下拉（单滑轮）",
+          "sets": [
+            {
+              "id": "set_j584",
+              "weightKg": 28,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j585",
+              "weightKg": 28,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j586",
+              "weightKg": 28,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j587",
+              "weightKg": 28,
+              "reps": 12,
+              "done": true
+            }
+          ],
+          "note": "下次不用再加"
+        },
+        {
+          "id": "we_j151",
+          "exerciseId": "ex_db_curl",
+          "name": "哑铃弯举",
+          "sets": [
+            {
+              "id": "set_j588",
+              "weightKg": 6.25,
+              "reps": 10,
+              "done": true
+            },
+            {
+              "id": "set_j589",
+              "weightKg": 6.25,
+              "reps": 8,
+              "done": true
+            },
+            {
+              "id": "set_j590",
+              "weightKg": 6.25,
+              "reps": 8,
+              "done": true
+            },
+            {
+              "id": "set_j591",
+              "weightKg": 6.25,
+              "reps": 6,
+              "done": true
+            }
+          ]
+        }
+      ],
+      "performance": 0,
+      "fatigue": 0,
+      "note": "",
+      "savedAt": "2026-07-03T12:00:00.000Z"
+    },
+    {
+      "id": "wd_j32",
+      "date": "2026-07-01",
+      "focus": "臀腿",
+      "exercises": [
+        {
+          "id": "we_j144",
+          "exerciseId": "ex_smith_squat",
+          "name": "史密斯深蹲",
+          "sets": [
+            {
+              "id": "set_j560",
+              "weightKg": 7.5,
+              "reps": 10,
+              "done": true
+            },
+            {
+              "id": "set_j561",
+              "weightKg": 7.5,
+              "reps": 10,
+              "done": true
+            },
+            {
+              "id": "set_j562",
+              "weightKg": 7.5,
+              "reps": 10,
+              "done": true
+            },
+            {
+              "id": "set_j563",
+              "weightKg": 7.5,
+              "reps": 10,
+              "done": true
+            },
+            {
+              "id": "set_j564",
+              "weightKg": 7.5,
+              "reps": 10,
+              "done": true
+            }
+          ],
+          "note": "次数增幅不大但腿更有劲；出汗很多"
+        },
+        {
+          "id": "we_j145",
+          "exerciseId": "ex_rdl",
+          "name": "罗马尼亚硬拉",
+          "sets": [
+            {
+              "id": "set_j565",
+              "weightKg": 7.5,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j566",
+              "weightKg": 7.5,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j567",
+              "weightKg": 7.5,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j568",
+              "weightKg": 7.5,
+              "reps": 12,
+              "done": true
+            }
+          ]
+        },
+        {
+          "id": "we_j146",
+          "exerciseId": "ex_hip_thrust",
+          "name": "臀推",
+          "sets": [
+            {
+              "id": "set_j569",
+              "weightKg": 10,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j570",
+              "weightKg": 10,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j571",
+              "weightKg": 10,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j572",
+              "weightKg": 10,
+              "reps": 12,
+              "done": true
+            }
+          ]
+        }
+      ],
+      "performance": 0,
+      "fatigue": 0,
+      "note": "",
+      "savedAt": "2026-07-01T12:00:00.000Z"
+    },
+    {
+      "id": "wd_j31",
+      "date": "2026-06-29",
+      "focus": "胸肩",
+      "exercises": [
+        {
+          "id": "we_j140",
+          "exerciseId": "ex_db_shoulder",
+          "name": "哑铃肩推",
+          "sets": [
+            {
+              "id": "set_j544",
+              "weightKg": 6,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j545",
+              "weightKg": 7.5,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j546",
+              "weightKg": 7.5,
+              "reps": 10,
+              "done": true
+            },
+            {
+              "id": "set_j547",
+              "weightKg": 7.5,
+              "reps": 8,
+              "done": true
+            }
+          ],
+          "note": "状态不好；6kg因器械被占"
+        },
+        {
+          "id": "we_j141",
+          "exerciseId": "ex_db_lateral",
+          "name": "哑铃侧平举",
+          "sets": [
+            {
+              "id": "set_j548",
+              "weightKg": 5,
+              "reps": 10,
+              "done": true
+            },
+            {
+              "id": "set_j549",
+              "weightKg": 5,
+              "reps": 8,
+              "done": true
+            },
+            {
+              "id": "set_j550",
+              "weightKg": 5,
+              "reps": 8,
+              "done": true
+            },
+            {
+              "id": "set_j551",
+              "weightKg": 5,
+              "reps": 8,
+              "done": true
+            }
+          ],
+          "note": "侧平举飞鸟；4kg被占用"
+        },
+        {
+          "id": "we_j142",
+          "exerciseId": "ex_assisted_dip",
+          "name": "辅助双杠臂屈伸",
+          "sets": [
+            {
+              "id": "set_j552",
+              "weightKg": 31,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j553",
+              "weightKg": 31,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j554",
+              "weightKg": 31,
+              "reps": 10,
+              "done": true
+            },
+            {
+              "id": "set_j555",
+              "weightKg": 31,
+              "reps": 10,
+              "done": true
+            }
+          ],
+          "note": "窄距"
+        },
+        {
+          "id": "we_j143",
+          "exerciseId": "ex_bb_bench",
+          "name": "杠铃卧推",
+          "sets": [
+            {
+              "id": "set_j556",
+              "weightKg": 0,
+              "reps": 8,
+              "done": true
+            },
+            {
+              "id": "set_j557",
+              "weightKg": 0,
+              "reps": 8,
+              "done": true
+            },
+            {
+              "id": "set_j558",
+              "weightKg": 0,
+              "reps": 6,
+              "done": true
+            },
+            {
+              "id": "set_j559",
+              "weightKg": 0,
+              "reps": 6,
+              "done": true
+            }
+          ],
+          "note": "平板自由卧推空杆"
+        }
+      ],
+      "performance": 2,
+      "fatigue": 4,
+      "note": "人多、器械难等；情绪低落、乏力，仍完成训练",
+      "savedAt": "2026-06-29T12:00:00.000Z"
+    },
+    {
+      "id": "wd_j30",
+      "date": "2026-06-27",
+      "focus": "背",
+      "exercises": [
+        {
+          "id": "we_j135",
+          "exerciseId": "ex_row_single",
+          "name": "坐姿划船（单滑轮）",
+          "sets": [
+            {
+              "id": "set_j525",
+              "weightKg": 28,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j526",
+              "weightKg": 28,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j527",
+              "weightKg": 28,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j528",
+              "weightKg": 28,
+              "reps": 12,
+              "done": true
+            }
+          ],
+          "note": "单滑轮车把 27+1"
+        },
+        {
+          "id": "we_j136",
+          "exerciseId": "ex_assisted_pullup",
+          "name": "辅助引体向上",
+          "sets": [
+            {
+              "id": "set_j529",
+              "weightKg": 32,
+              "reps": 8,
+              "done": true
+            },
+            {
+              "id": "set_j530",
+              "weightKg": 32,
+              "reps": 8,
+              "done": true
+            },
+            {
+              "id": "set_j531",
+              "weightKg": 32,
+              "reps": 8,
+              "done": true
+            },
+            {
+              "id": "set_j532",
+              "weightKg": 32,
+              "reps": 8,
+              "done": true
+            }
+          ],
+          "note": "31+1；自觉变难（是否增重）"
+        },
+        {
+          "id": "we_j137",
+          "exerciseId": "ex_lat_dual",
+          "name": "高位下拉（双滑轮）",
+          "sets": [
+            {
+              "id": "set_j533",
+              "weightKg": 14,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j534",
+              "weightKg": 14,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j535",
+              "weightKg": 14,
+              "reps": 10,
+              "done": true
+            },
+            {
+              "id": "set_j536",
+              "weightKg": 14,
+              "reps": 10,
+              "done": true
+            }
+          ]
+        },
+        {
+          "id": "we_j138",
+          "exerciseId": "ex_straight_arm",
+          "name": "直臂下压",
+          "sets": [
+            {
+              "id": "set_j537",
+              "weightKg": 11,
+              "reps": 10,
+              "done": true
+            },
+            {
+              "id": "set_j538",
+              "weightKg": 11,
+              "reps": 8,
+              "done": true
+            },
+            {
+              "id": "set_j539",
+              "weightKg": 11,
+              "reps": 8,
+              "done": true
+            },
+            {
+              "id": "set_j540",
+              "weightKg": 11,
+              "reps": 8,
+              "done": true
+            }
+          ]
+        },
+        {
+          "id": "we_j139",
+          "exerciseId": "ex_db_curl",
+          "name": "哑铃弯举",
+          "sets": [
+            {
+              "id": "set_j541",
+              "weightKg": 6.25,
+              "reps": 10,
+              "done": true
+            },
+            {
+              "id": "set_j542",
+              "weightKg": 6.25,
+              "reps": 8,
+              "done": true
+            },
+            {
+              "id": "set_j543",
+              "weightKg": 6.25,
+              "reps": 8,
+              "done": true
+            }
+          ]
+        }
+      ],
+      "performance": 0,
+      "fatigue": 0,
+      "note": "",
+      "savedAt": "2026-06-27T12:00:00.000Z"
+    },
+    {
+      "id": "wd_j29",
+      "date": "2026-06-24",
+      "focus": "臀腿",
+      "exercises": [
+        {
+          "id": "we_j132",
+          "exerciseId": "ex_smith_squat",
+          "name": "史密斯深蹲",
+          "sets": [
+            {
+              "id": "set_j511",
+              "weightKg": 7.5,
+              "reps": 9,
+              "done": true
+            },
+            {
+              "id": "set_j512",
+              "weightKg": 7.5,
+              "reps": 9,
+              "done": true
+            },
+            {
+              "id": "set_j513",
+              "weightKg": 7.5,
+              "reps": 9,
+              "done": true
+            },
+            {
+              "id": "set_j514",
+              "weightKg": 7.5,
+              "reps": 9,
+              "done": true
+            },
+            {
+              "id": "set_j515",
+              "weightKg": 7.5,
+              "reps": 9,
+              "done": true
+            },
+            {
+              "id": "set_j516",
+              "weightKg": 7.5,
+              "reps": 9,
+              "done": true
+            }
+          ]
+        },
+        {
+          "id": "we_j133",
+          "exerciseId": "ex_rdl",
+          "name": "罗马尼亚硬拉",
+          "sets": [
+            {
+              "id": "set_j517",
+              "weightKg": 7.5,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j518",
+              "weightKg": 7.5,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j519",
+              "weightKg": 7.5,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j520",
+              "weightKg": 7.5,
+              "reps": 12,
+              "done": true
+            }
+          ],
+          "note": "仍很难"
+        },
+        {
+          "id": "we_j134",
+          "exerciseId": "ex_hip_thrust",
+          "name": "臀推",
+          "sets": [
+            {
+              "id": "set_j521",
+              "weightKg": 10,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j522",
+              "weightKg": 10,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j523",
+              "weightKg": 10,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j524",
+              "weightKg": 10,
+              "reps": 12,
+              "done": true
+            }
+          ]
+        }
+      ],
+      "performance": 0,
+      "fatigue": 0,
+      "note": "",
+      "savedAt": "2026-06-24T12:00:00.000Z"
+    },
+    {
+      "id": "wd_j28",
+      "date": "2026-06-22",
+      "focus": "胸肩",
+      "exercises": [
+        {
+          "id": "we_j128",
+          "exerciseId": "ex_db_shoulder",
+          "name": "哑铃肩推",
+          "sets": [
+            {
+              "id": "set_j495",
+              "weightKg": 7.5,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j496",
+              "weightKg": 7.5,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j497",
+              "weightKg": 7.5,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j498",
+              "weightKg": 7.5,
+              "reps": 10,
+              "done": true
+            }
+          ],
+          "note": "最后很痛苦"
+        },
+        {
+          "id": "we_j129",
+          "exerciseId": "ex_bb_bench",
+          "name": "杠铃卧推",
+          "sets": [
+            {
+              "id": "set_j499",
+              "weightKg": 2.5,
+              "reps": 8,
+              "done": true
+            },
+            {
+              "id": "set_j500",
+              "weightKg": 2.5,
+              "reps": 8,
+              "done": true
+            },
+            {
+              "id": "set_j501",
+              "weightKg": 2.5,
+              "reps": 8,
+              "done": true
+            },
+            {
+              "id": "set_j502",
+              "weightKg": 2.5,
+              "reps": 8,
+              "done": true
+            }
+          ],
+          "note": "自由卧推"
+        },
+        {
+          "id": "we_j130",
+          "exerciseId": "ex_db_lateral",
+          "name": "哑铃侧平举",
+          "sets": [
+            {
+              "id": "set_j503",
+              "weightKg": 4,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j504",
+              "weightKg": 4,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j505",
+              "weightKg": 4,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j506",
+              "weightKg": 4,
+              "reps": 12,
+              "done": true
+            }
+          ],
+          "note": "侧平举飞鸟；下次可试5kg"
+        },
+        {
+          "id": "we_j131",
+          "exerciseId": "ex_assisted_dip",
+          "name": "辅助双杠臂屈伸",
+          "sets": [
+            {
+              "id": "set_j507",
+              "weightKg": 31,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j508",
+              "weightKg": 31,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j509",
+              "weightKg": 31,
+              "reps": 8,
+              "done": true
+            },
+            {
+              "id": "set_j510",
+              "weightKg": 31,
+              "reps": 8,
+              "done": true
+            }
+          ]
+        }
+      ],
+      "performance": 0,
+      "fatigue": 0,
+      "note": "室内单车 10min + 变速 10min",
+      "savedAt": "2026-06-22T12:00:00.000Z"
+    },
+    {
+      "id": "wd_j27",
+      "date": "2026-06-17",
+      "focus": "背",
+      "exercises": [
+        {
+          "id": "we_j123",
+          "exerciseId": "ex_assisted_pullup",
+          "name": "辅助引体向上",
+          "sets": [
+            {
+              "id": "set_j475",
+              "weightKg": 34,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j476",
+              "weightKg": 34,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j477",
+              "weightKg": 34,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j478",
+              "weightKg": 34,
+              "reps": 12,
+              "done": true
+            }
+          ]
+        },
+        {
+          "id": "we_j124",
+          "exerciseId": "ex_lat_dual",
+          "name": "高位下拉（双滑轮）",
+          "sets": [
+            {
+              "id": "set_j479",
+              "weightKg": 13,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j480",
+              "weightKg": 14.25,
+              "reps": 10,
+              "done": true
+            },
+            {
+              "id": "set_j481",
+              "weightKg": 14.25,
+              "reps": 10,
+              "done": true
+            },
+            {
+              "id": "set_j482",
+              "weightKg": 14.25,
+              "reps": 10,
+              "done": true
+            }
+          ],
+          "note": "双滑轮；13 后+小片吃力 → 14.25"
+        },
+        {
+          "id": "we_j125",
+          "exerciseId": "ex_row_single",
+          "name": "坐姿划船（单滑轮）",
+          "sets": [
+            {
+              "id": "set_j483",
+              "weightKg": 27,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j484",
+              "weightKg": 27,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j485",
+              "weightKg": 27,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j486",
+              "weightKg": 27,
+              "reps": 12,
+              "done": true
+            }
+          ],
+          "note": "单滑轮划船；轻松"
+        },
+        {
+          "id": "we_j126",
+          "exerciseId": "ex_straight_arm",
+          "name": "直臂下压",
+          "sets": [
+            {
+              "id": "set_j487",
+              "weightKg": 10,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j488",
+              "weightKg": 10,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j489",
+              "weightKg": 10,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j490",
+              "weightKg": 10,
+              "reps": 12,
+              "done": true
+            }
+          ],
+          "note": "轻松"
+        },
+        {
+          "id": "we_j127",
+          "exerciseId": "ex_db_curl",
+          "name": "哑铃弯举",
+          "sets": [
+            {
+              "id": "set_j491",
+              "weightKg": 6.25,
+              "reps": 8,
+              "done": true
+            },
+            {
+              "id": "set_j492",
+              "weightKg": 6.25,
+              "reps": 8,
+              "done": true
+            },
+            {
+              "id": "set_j493",
+              "weightKg": 6.25,
+              "reps": 7,
+              "done": true
+            },
+            {
+              "id": "set_j494",
+              "weightKg": 6.25,
+              "reps": 5,
+              "done": true
+            }
+          ],
+          "note": "最后一组做不起来"
+        }
+      ],
+      "performance": 0,
+      "fatigue": 0,
+      "note": "人多忘热身，表现不佳",
+      "savedAt": "2026-06-17T12:00:00.000Z"
+    },
+    {
+      "id": "wd_j26",
+      "date": "2026-06-15",
+      "focus": "臀腿",
+      "exercises": [
+        {
+          "id": "we_j119",
+          "exerciseId": "ex_smith_squat",
+          "name": "史密斯深蹲",
+          "sets": [
+            {
+              "id": "set_j458",
+              "weightKg": 7.5,
+              "reps": 9,
+              "done": true
+            },
+            {
+              "id": "set_j459",
+              "weightKg": 7.5,
+              "reps": 9,
+              "done": true
+            },
+            {
+              "id": "set_j460",
+              "weightKg": 7.5,
+              "reps": 9,
+              "done": true
+            },
+            {
+              "id": "set_j461",
+              "weightKg": 7.5,
+              "reps": 9,
+              "done": true
+            },
+            {
+              "id": "set_j462",
+              "weightKg": 7.5,
+              "reps": 9,
+              "done": true
+            },
+            {
+              "id": "set_j463",
+              "weightKg": 7.5,
+              "reps": 9,
+              "done": true
+            }
+          ],
+          "note": "心肺跟不上；蹲得较深"
+        },
+        {
+          "id": "we_j120",
+          "exerciseId": "ex_rdl",
+          "name": "罗马尼亚硬拉",
+          "sets": [
+            {
+              "id": "set_j464",
+              "weightKg": 7.5,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j465",
+              "weightKg": 7.5,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j466",
+              "weightKg": 7.5,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j467",
+              "weightKg": 7.5,
+              "reps": 12,
+              "done": true
+            }
+          ],
+          "note": "强度非常高"
+        },
+        {
+          "id": "we_j121",
+          "exerciseId": "ex_hip_thrust",
+          "name": "臀推",
+          "sets": [
+            {
+              "id": "set_j468",
+              "weightKg": 7.5,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j469",
+              "weightKg": 7.5,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j470",
+              "weightKg": 7.5,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j471",
+              "weightKg": 7.5,
+              "reps": 12,
+              "done": true
+            }
+          ]
+        },
+        {
+          "id": "we_j122",
+          "exerciseId": "ex_bosu_leg_raise",
+          "name": "波速球举腿",
+          "sets": [
+            {
+              "id": "set_j472",
+              "weightKg": 0,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j473",
+              "weightKg": 0,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j474",
+              "weightKg": 0,
+              "reps": 12,
+              "done": true
+            }
+          ]
+        }
+      ],
+      "performance": 0,
+      "fatigue": 0,
+      "note": "",
+      "savedAt": "2026-06-15T12:00:00.000Z"
+    },
+    {
+      "id": "wd_j25",
+      "date": "2026-06-13",
+      "focus": "胸肩",
+      "exercises": [
+        {
+          "id": "we_j115",
+          "exerciseId": "ex_bb_bench",
+          "name": "杠铃卧推",
+          "sets": [
+            {
+              "id": "set_j442",
+              "weightKg": 2.5,
+              "reps": 10,
+              "done": true
+            },
+            {
+              "id": "set_j443",
+              "weightKg": 2.5,
+              "reps": 8,
+              "done": true
+            },
+            {
+              "id": "set_j444",
+              "weightKg": 2.5,
+              "reps": 8,
+              "done": true
+            },
+            {
+              "id": "set_j445",
+              "weightKg": 2.5,
+              "reps": 8,
+              "done": true
+            }
+          ]
+        },
+        {
+          "id": "we_j116",
+          "exerciseId": "ex_db_shoulder",
+          "name": "哑铃肩推",
+          "sets": [
+            {
+              "id": "set_j446",
+              "weightKg": 7.5,
+              "reps": 8,
+              "done": true
+            },
+            {
+              "id": "set_j447",
+              "weightKg": 7.5,
+              "reps": 8,
+              "done": true
+            },
+            {
+              "id": "set_j448",
+              "weightKg": 7.5,
+              "reps": 8,
+              "done": true
+            },
+            {
+              "id": "set_j449",
+              "weightKg": 7.5,
+              "reps": 8,
+              "done": true
+            }
+          ]
+        },
+        {
+          "id": "we_j117",
+          "exerciseId": "ex_db_lateral",
+          "name": "哑铃侧平举",
+          "sets": [
+            {
+              "id": "set_j450",
+              "weightKg": 4,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j451",
+              "weightKg": 4,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j452",
+              "weightKg": 4,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j453",
+              "weightKg": 4,
+              "reps": 12,
+              "done": true
+            }
+          ]
+        },
+        {
+          "id": "we_j118",
+          "exerciseId": "ex_assisted_dip",
+          "name": "辅助双杠臂屈伸",
+          "sets": [
+            {
+              "id": "set_j454",
+              "weightKg": 31,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j455",
+              "weightKg": 31,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j456",
+              "weightKg": 31,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j457",
+              "weightKg": 31,
+              "reps": 12,
+              "done": true
+            }
+          ],
+          "note": "下次不能再减辅助"
+        }
+      ],
+      "performance": 0,
+      "fatigue": 0,
+      "note": "有氧：7.5km/h 10min + 间歇跑 10min",
+      "savedAt": "2026-06-13T12:00:00.000Z"
+    },
+    {
+      "id": "wd_j24",
+      "date": "2026-06-11",
+      "focus": "背",
+      "exercises": [
+        {
+          "id": "we_j110",
+          "exerciseId": "ex_assisted_pullup",
+          "name": "辅助引体向上",
+          "sets": [
+            {
+              "id": "set_j423",
+              "weightKg": 34,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j424",
+              "weightKg": 34,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j425",
+              "weightKg": 34,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j426",
+              "weightKg": 34,
+              "reps": 12,
+              "done": true
+            }
+          ],
+          "note": "未想象中累，下次可加"
+        },
+        {
+          "id": "we_j111",
+          "exerciseId": "ex_row_single",
+          "name": "坐姿划船（单滑轮）",
+          "sets": [
+            {
+              "id": "set_j427",
+              "weightKg": 27,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j428",
+              "weightKg": 27,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j429",
+              "weightKg": 27,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j430",
+              "weightKg": 27,
+              "reps": 12,
+              "done": true
+            }
+          ],
+          "note": "单滑轮车把划船"
+        },
+        {
+          "id": "we_j112",
+          "exerciseId": "ex_lat_dual",
+          "name": "高位下拉（双滑轮）",
+          "sets": [
+            {
+              "id": "set_j431",
+              "weightKg": 13.75,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j432",
+              "weightKg": 13.75,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j433",
+              "weightKg": 13.75,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j434",
+              "weightKg": 13.75,
+              "reps": 12,
+              "done": true
+            }
+          ],
+          "note": "双滑轮高位下拉"
+        },
+        {
+          "id": "we_j113",
+          "exerciseId": "ex_machine_curl",
+          "name": "器械弯举",
+          "sets": [
+            {
+              "id": "set_j435",
+              "weightKg": 3.75,
+              "reps": 15,
+              "done": true
+            },
+            {
+              "id": "set_j436",
+              "weightKg": 5,
+              "reps": 10,
+              "done": true
+            },
+            {
+              "id": "set_j437",
+              "weightKg": 5,
+              "reps": 8,
+              "done": true
+            },
+            {
+              "id": "set_j438",
+              "weightKg": 5,
+              "reps": 11,
+              "done": true
+            }
+          ]
+        },
+        {
+          "id": "we_j114",
+          "exerciseId": "ex_bosu_leg_raise",
+          "name": "波速球举腿",
+          "sets": [
+            {
+              "id": "set_j439",
+              "weightKg": 0,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j440",
+              "weightKg": 0,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j441",
+              "weightKg": 0,
+              "reps": 12,
+              "done": true
+            }
+          ]
+        }
+      ],
+      "performance": 0,
+      "fatigue": 0,
+      "note": "",
+      "savedAt": "2026-06-11T12:00:00.000Z"
+    },
+    {
+      "id": "wd_j23",
+      "date": "2026-06-10",
+      "focus": "臀腿",
+      "exercises": [
+        {
+          "id": "we_j106",
+          "exerciseId": "ex_rdl",
+          "name": "罗马尼亚硬拉",
+          "sets": [
+            {
+              "id": "set_j406",
+              "weightKg": 6.25,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j407",
+              "weightKg": 6.25,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j408",
+              "weightKg": 6.25,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j409",
+              "weightKg": 7.5,
+              "reps": 12,
+              "done": true
+            }
+          ]
+        },
+        {
+          "id": "we_j107",
+          "exerciseId": "ex_smith_squat",
+          "name": "史密斯深蹲",
+          "sets": [
+            {
+              "id": "set_j410",
+              "weightKg": 7.5,
+              "reps": 8,
+              "done": true
+            },
+            {
+              "id": "set_j411",
+              "weightKg": 7.5,
+              "reps": 8,
+              "done": true
+            },
+            {
+              "id": "set_j412",
+              "weightKg": 7.5,
+              "reps": 8,
+              "done": true
+            },
+            {
+              "id": "set_j413",
+              "weightKg": 7.5,
+              "reps": 8,
+              "done": true
+            },
+            {
+              "id": "set_j414",
+              "weightKg": 7.5,
+              "reps": 8,
+              "done": true
+            },
+            {
+              "id": "set_j415",
+              "weightKg": 7.5,
+              "reps": 8,
+              "done": true
+            }
+          ]
+        },
+        {
+          "id": "we_j108",
+          "exerciseId": "ex_hip_thrust",
+          "name": "臀推",
+          "sets": [
+            {
+              "id": "set_j416",
+              "weightKg": 7.5,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j417",
+              "weightKg": 7.5,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j418",
+              "weightKg": 7.5,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j419",
+              "weightKg": 7.5,
+              "reps": 12,
+              "done": true
+            }
+          ]
+        },
+        {
+          "id": "we_j109",
+          "exerciseId": "ex_bosu_leg_raise",
+          "name": "波速球举腿",
+          "sets": [
+            {
+              "id": "set_j420",
+              "weightKg": 0,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j421",
+              "weightKg": 0,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j422",
+              "weightKg": 0,
+              "reps": 12,
+              "done": true
+            }
+          ]
+        }
+      ],
+      "performance": 0,
+      "fatigue": 0,
+      "note": "",
+      "savedAt": "2026-06-10T12:00:00.000Z"
+    },
+    {
+      "id": "wd_j22",
+      "date": "2026-06-08",
+      "focus": "胸肩",
+      "exercises": [
+        {
+          "id": "we_j102",
+          "exerciseId": "ex_bb_bench",
+          "name": "杠铃卧推",
+          "sets": [
+            {
+              "id": "set_j390",
+              "weightKg": 0,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j391",
+              "weightKg": 2.5,
+              "reps": 8,
+              "done": true
+            },
+            {
+              "id": "set_j392",
+              "weightKg": 2.5,
+              "reps": 8,
+              "done": true
+            },
+            {
+              "id": "set_j393",
+              "weightKg": 2.5,
+              "reps": 8,
+              "done": true
+            }
+          ],
+          "note": "空杆较轻松后加片"
+        },
+        {
+          "id": "we_j103",
+          "exerciseId": "ex_db_shoulder",
+          "name": "哑铃肩推",
+          "sets": [
+            {
+              "id": "set_j394",
+              "weightKg": 6,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j395",
+              "weightKg": 7.5,
+              "reps": 10,
+              "done": true
+            },
+            {
+              "id": "set_j396",
+              "weightKg": 7.5,
+              "reps": 10,
+              "done": true
+            },
+            {
+              "id": "set_j397",
+              "weightKg": 7.5,
+              "reps": 8,
+              "done": true
+            }
+          ]
+        },
+        {
+          "id": "we_j104",
+          "exerciseId": "ex_db_lateral",
+          "name": "哑铃侧平举",
+          "sets": [
+            {
+              "id": "set_j398",
+              "weightKg": 4,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j399",
+              "weightKg": 4,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j400",
+              "weightKg": 4,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j401",
+              "weightKg": 4,
+              "reps": 12,
+              "done": true
+            }
+          ]
+        },
+        {
+          "id": "we_j105",
+          "exerciseId": "ex_assisted_dip",
+          "name": "辅助双杠臂屈伸",
+          "sets": [
+            {
+              "id": "set_j402",
+              "weightKg": 34,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j403",
+              "weightKg": 34,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j404",
+              "weightKg": 34,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j405",
+              "weightKg": 34,
+              "reps": 12,
+              "done": true
+            }
+          ]
+        }
+      ],
+      "performance": 0,
+      "fatigue": 0,
+      "note": "有氧：7.5km/h 10min；5.5–8.5 交替 10min",
+      "savedAt": "2026-06-08T12:00:00.000Z"
+    },
+    {
+      "id": "wd_j21",
+      "date": "2026-06-05",
+      "focus": "背",
+      "exercises": [
+        {
+          "id": "we_j98",
+          "exerciseId": "ex_assisted_pullup",
+          "name": "辅助引体向上",
+          "sets": [
+            {
+              "id": "set_j374",
+              "weightKg": 35.25,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j375",
+              "weightKg": 35.25,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j376",
+              "weightKg": 35.25,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j377",
+              "weightKg": 35.25,
+              "reps": 12,
+              "done": true
+            }
+          ],
+          "note": "34+1片 → 35.25"
+        },
+        {
+          "id": "we_j99",
+          "exerciseId": "ex_lat_single",
+          "name": "高位下拉（单滑轮）",
+          "sets": [
+            {
+              "id": "set_j378",
+              "weightKg": 27,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j379",
+              "weightKg": 27,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j380",
+              "weightKg": 27,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j381",
+              "weightKg": 27,
+              "reps": 12,
+              "done": true
+            }
+          ]
+        },
+        {
+          "id": "we_j100",
+          "exerciseId": "ex_row_dual",
+          "name": "坐姿划船（双滑轮）",
+          "sets": [
+            {
+              "id": "set_j382",
+              "weightKg": 13.75,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j383",
+              "weightKg": 13.75,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j384",
+              "weightKg": 13.75,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j385",
+              "weightKg": 13.75,
+              "reps": 12,
+              "done": true
+            }
+          ],
+          "note": "宽距划船双滑轮"
+        },
+        {
+          "id": "we_j101",
+          "exerciseId": "ex_straight_arm",
+          "name": "直臂下压",
+          "sets": [
+            {
+              "id": "set_j386",
+              "weightKg": 8.25,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j387",
+              "weightKg": 8.25,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j388",
+              "weightKg": 8.25,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j389",
+              "weightKg": 8.25,
+              "reps": 12,
+              "done": true
+            }
+          ],
+          "note": "7+1片 → 8.25"
+        }
+      ],
+      "performance": 0,
+      "fatigue": 0,
+      "note": "二头弯举重量忘记，未入库",
+      "savedAt": "2026-06-05T12:00:00.000Z"
+    },
+    {
+      "id": "wd_j20",
+      "date": "2026-06-03",
+      "focus": "臀腿",
+      "exercises": [
+        {
+          "id": "we_j95",
+          "exerciseId": "ex_smith_squat",
+          "name": "史密斯深蹲",
+          "sets": [
+            {
+              "id": "set_j360",
+              "weightKg": 5,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j361",
+              "weightKg": 7.5,
+              "reps": 6,
+              "done": true
+            },
+            {
+              "id": "set_j362",
+              "weightKg": 7.5,
+              "reps": 6,
+              "done": true
+            },
+            {
+              "id": "set_j363",
+              "weightKg": 7.5,
+              "reps": 6,
+              "done": true
+            },
+            {
+              "id": "set_j364",
+              "weightKg": 7.5,
+              "reps": 6,
+              "done": true
+            },
+            {
+              "id": "set_j365",
+              "weightKg": 7.5,
+              "reps": 6,
+              "done": true
+            }
+          ]
+        },
+        {
+          "id": "we_j96",
+          "exerciseId": "ex_rdl",
+          "name": "罗马尼亚硬拉",
+          "sets": [
+            {
+              "id": "set_j366",
+              "weightKg": 6.25,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j367",
+              "weightKg": 6.25,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j368",
+              "weightKg": 6.25,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j369",
+              "weightKg": 6.25,
+              "reps": 12,
+              "done": true
+            }
+          ]
+        },
+        {
+          "id": "we_j97",
+          "exerciseId": "ex_hip_thrust",
+          "name": "臀推",
+          "sets": [
+            {
+              "id": "set_j370",
+              "weightKg": 5,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j371",
+              "weightKg": 7.5,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j372",
+              "weightKg": 7.5,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j373",
+              "weightKg": 7.5,
+              "reps": 12,
+              "done": true
+            }
+          ]
+        }
+      ],
+      "performance": 0,
+      "fatigue": 0,
+      "note": "",
+      "savedAt": "2026-06-03T12:00:00.000Z"
+    },
+    {
+      "id": "wd_j19",
+      "date": "2026-05-30",
+      "focus": "胸肩",
+      "exercises": [
+        {
+          "id": "we_j91",
+          "exerciseId": "ex_chest_press_machine",
+          "name": "推胸机",
+          "sets": [
+            {
+              "id": "set_j344",
+              "weightKg": 0,
+              "reps": 6,
+              "done": true
+            },
+            {
+              "id": "set_j345",
+              "weightKg": 0,
+              "reps": 9,
+              "done": true
+            },
+            {
+              "id": "set_j346",
+              "weightKg": 0,
+              "reps": 8,
+              "done": true
+            },
+            {
+              "id": "set_j347",
+              "weightKg": 0,
+              "reps": 6,
+              "done": true
+            }
+          ],
+          "note": "空配重仍很重、难发力"
+        },
+        {
+          "id": "we_j92",
+          "exerciseId": "ex_db_shoulder",
+          "name": "哑铃肩推",
+          "sets": [
+            {
+              "id": "set_j348",
+              "weightKg": 6,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j349",
+              "weightKg": 6,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j350",
+              "weightKg": 6,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j351",
+              "weightKg": 6,
+              "reps": 12,
+              "done": true
+            }
+          ]
+        },
+        {
+          "id": "we_j93",
+          "exerciseId": "ex_db_lateral",
+          "name": "哑铃侧平举",
+          "sets": [
+            {
+              "id": "set_j352",
+              "weightKg": 4,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j353",
+              "weightKg": 4,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j354",
+              "weightKg": 4,
+              "reps": 10,
+              "done": true
+            },
+            {
+              "id": "set_j355",
+              "weightKg": 4,
+              "reps": 10,
+              "done": true
+            }
+          ]
+        },
+        {
+          "id": "we_j94",
+          "exerciseId": "ex_assisted_dip",
+          "name": "辅助双杠臂屈伸",
+          "sets": [
+            {
+              "id": "set_j356",
+              "weightKg": 37,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j357",
+              "weightKg": 37,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j358",
+              "weightKg": 37,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j359",
+              "weightKg": 37,
+              "reps": 12,
+              "done": true
+            }
+          ]
+        }
+      ],
+      "performance": 0,
+      "fatigue": 0,
+      "note": "有氧：7km/h 10min；间歇跑 5.5–8km/h 10min",
+      "savedAt": "2026-05-30T12:00:00.000Z"
+    },
+    {
+      "id": "wd_j18",
+      "date": "2026-05-28",
+      "focus": "背",
+      "exercises": [
+        {
+          "id": "we_j86",
+          "exerciseId": "ex_assisted_pullup",
+          "name": "辅助引体向上",
+          "sets": [
+            {
+              "id": "set_j325",
+              "weightKg": 37,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j326",
+              "weightKg": 37,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j327",
+              "weightKg": 35,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j328",
+              "weightKg": 31,
+              "reps": 5,
+              "done": true
+            }
+          ],
+          "note": "原记 37×2；34+1kg；31kg×5（次数仅末组明确，前组按12）"
+        },
+        {
+          "id": "we_j87",
+          "exerciseId": "ex_lat_dual",
+          "name": "高位下拉（双滑轮）",
+          "sets": [
+            {
+              "id": "set_j329",
+              "weightKg": 13.75,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j330",
+              "weightKg": 13.75,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j331",
+              "weightKg": 13.75,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j332",
+              "weightKg": 13.75,
+              "reps": 12,
+              "done": true
+            }
+          ],
+          "note": "宽距下拉双侧配重"
+        },
+        {
+          "id": "we_j88",
+          "exerciseId": "ex_row_plate",
+          "name": "坐姿划船（配重片）",
+          "sets": [
+            {
+              "id": "set_j333",
+              "weightKg": 25,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j334",
+              "weightKg": 25,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j335",
+              "weightKg": 27,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j336",
+              "weightKg": 27,
+              "reps": 12,
+              "done": true
+            }
+          ],
+          "note": "宽距车把 20+大片 / 27"
+        },
+        {
+          "id": "we_j89",
+          "exerciseId": "ex_straight_arm",
+          "name": "直臂下压",
+          "sets": [
+            {
+              "id": "set_j337",
+              "weightKg": 10,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j338",
+              "weightKg": 10,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j339",
+              "weightKg": 8.25,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j340",
+              "weightKg": 8.25,
+              "reps": 12,
+              "done": true
+            }
+          ],
+          "note": "7+小片 → 8.25"
+        },
+        {
+          "id": "we_j90",
+          "exerciseId": "ex_db_curl",
+          "name": "哑铃弯举",
+          "sets": [
+            {
+              "id": "set_j341",
+              "weightKg": 5,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j342",
+              "weightKg": 5,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j343",
+              "weightKg": 6,
+              "reps": 3,
+              "done": true
+            }
+          ]
+        }
+      ],
+      "performance": 0,
+      "fatigue": 0,
+      "note": "",
+      "savedAt": "2026-05-28T12:00:00.000Z"
+    },
+    {
+      "id": "wd_j17",
+      "date": "2026-05-26",
+      "focus": "臀腿",
+      "exercises": [
+        {
+          "id": "we_j83",
+          "exerciseId": "ex_smith_squat",
+          "name": "史密斯深蹲",
+          "sets": [
+            {
+              "id": "set_j311",
+              "weightKg": 5,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j312",
+              "weightKg": 7.5,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j313",
+              "weightKg": 7.5,
+              "reps": 8,
+              "done": true
+            },
+            {
+              "id": "set_j314",
+              "weightKg": 7.5,
+              "reps": 5,
+              "done": true
+            },
+            {
+              "id": "set_j315",
+              "weightKg": 7.5,
+              "reps": 5,
+              "done": true
+            },
+            {
+              "id": "set_j316",
+              "weightKg": 7.5,
+              "reps": 5,
+              "done": true
+            }
+          ],
+          "note": "减重蹲更深；心率约150"
+        },
+        {
+          "id": "we_j84",
+          "exerciseId": "ex_bb_dl",
+          "name": "杠铃硬拉",
+          "sets": [
+            {
+              "id": "set_j317",
+              "weightKg": 5,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j318",
+              "weightKg": 6.25,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j319",
+              "weightKg": 6.25,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j320",
+              "weightKg": 6.25,
+              "reps": 12,
+              "done": true
+            }
+          ]
+        },
+        {
+          "id": "we_j85",
+          "exerciseId": "ex_hip_thrust",
+          "name": "臀推",
+          "sets": [
+            {
+              "id": "set_j321",
+              "weightKg": 5,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j322",
+              "weightKg": 5,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j323",
+              "weightKg": 5,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j324",
+              "weightKg": 5,
+              "reps": 12,
+              "done": true
+            }
+          ]
+        }
+      ],
+      "performance": 0,
+      "fatigue": 0,
+      "note": "",
+      "savedAt": "2026-05-26T12:00:00.000Z"
+    },
+    {
+      "id": "wd_j16",
+      "date": "2026-05-25",
+      "focus": "胸肩",
+      "exercises": [
+        {
+          "id": "we_j80",
+          "exerciseId": "ex_smith_bench",
+          "name": "史密斯卧推",
+          "sets": [
+            {
+              "id": "set_j299",
+              "weightKg": 5,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j300",
+              "weightKg": 7.5,
+              "reps": 10,
+              "done": true
+            },
+            {
+              "id": "set_j301",
+              "weightKg": 7.5,
+              "reps": 10,
+              "done": true
+            },
+            {
+              "id": "set_j302",
+              "weightKg": 7.5,
+              "reps": 10,
+              "done": true
+            }
+          ]
+        },
+        {
+          "id": "we_j81",
+          "exerciseId": "ex_db_shoulder",
+          "name": "哑铃肩推",
+          "sets": [
+            {
+              "id": "set_j303",
+              "weightKg": 5,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j304",
+              "weightKg": 6,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j305",
+              "weightKg": 6,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j306",
+              "weightKg": 6,
+              "reps": 12,
+              "done": true
+            }
+          ],
+          "note": "史密斯2.5太轻、5做不满故改哑铃"
+        },
+        {
+          "id": "we_j82",
+          "exerciseId": "ex_db_lateral",
+          "name": "哑铃侧平举",
+          "sets": [
+            {
+              "id": "set_j307",
+              "weightKg": 4,
+              "reps": 10,
+              "done": true
+            },
+            {
+              "id": "set_j308",
+              "weightKg": 4,
+              "reps": 10,
+              "done": true
+            },
+            {
+              "id": "set_j309",
+              "weightKg": 4,
+              "reps": 10,
+              "done": true
+            },
+            {
+              "id": "set_j310",
+              "weightKg": 4,
+              "reps": 10,
+              "done": true
+            }
+          ]
+        }
+      ],
+      "performance": 0,
+      "fatigue": 0,
+      "note": "有氧：6.5–7 配速约10min 心率160；间歇跑约10min；共约20min / 2.2km。史密斯肩推未记有效组。",
+      "savedAt": "2026-05-25T12:00:00.000Z"
+    },
+    {
+      "id": "wd_j15",
+      "date": "2026-05-24",
+      "focus": "背",
+      "exercises": [
+        {
+          "id": "we_j74",
+          "exerciseId": "ex_row_dual",
+          "name": "坐姿划船（双滑轮）",
+          "sets": [
+            {
+              "id": "set_j275",
+              "weightKg": 13.75,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j276",
+              "weightKg": 13.75,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j277",
+              "weightKg": 13.75,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j278",
+              "weightKg": 13.75,
+              "reps": 12,
+              "done": true
+            }
+          ],
+          "note": "宽距划船"
+        },
+        {
+          "id": "we_j75",
+          "exerciseId": "ex_assisted_pullup",
+          "name": "辅助引体向上",
+          "sets": [
+            {
+              "id": "set_j279",
+              "weightKg": 37,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j280",
+              "weightKg": 37,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j281",
+              "weightKg": 34,
+              "reps": 10,
+              "done": true
+            },
+            {
+              "id": "set_j282",
+              "weightKg": 34,
+              "reps": 12,
+              "done": true
+            }
+          ]
+        },
+        {
+          "id": "we_j76",
+          "exerciseId": "ex_straight_arm",
+          "name": "直臂下压",
+          "sets": [
+            {
+              "id": "set_j283",
+              "weightKg": 10,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j284",
+              "weightKg": 10,
+              "reps": 8,
+              "done": true
+            },
+            {
+              "id": "set_j285",
+              "weightKg": 7.5,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j286",
+              "weightKg": 7.5,
+              "reps": 12,
+              "done": true
+            }
+          ]
+        },
+        {
+          "id": "we_j77",
+          "exerciseId": "ex_lat_single",
+          "name": "高位下拉（单滑轮）",
+          "sets": [
+            {
+              "id": "set_j287",
+              "weightKg": 20,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j288",
+              "weightKg": 25,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j289",
+              "weightKg": 25,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j290",
+              "weightKg": 27,
+              "reps": 10,
+              "done": true
+            }
+          ],
+          "note": "单滑轮；原记 20 / 20+5 / 27"
+        },
+        {
+          "id": "we_j78",
+          "exerciseId": "ex_back_extension",
+          "name": "山羊挺身",
+          "sets": [
+            {
+              "id": "set_j291",
+              "weightKg": 5,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j292",
+              "weightKg": 5,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j293",
+              "weightKg": 5,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j294",
+              "weightKg": 5,
+              "reps": 12,
+              "done": true
+            }
+          ]
+        },
+        {
+          "id": "we_j79",
+          "exerciseId": "ex_db_curl",
+          "name": "哑铃弯举",
+          "sets": [
+            {
+              "id": "set_j295",
+              "weightKg": 4,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j296",
+              "weightKg": 4,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j297",
+              "weightKg": 5,
+              "reps": 10,
+              "done": true
+            },
+            {
+              "id": "set_j298",
+              "weightKg": 6,
+              "reps": 3,
+              "done": true
+            }
+          ]
+        }
+      ],
+      "performance": 0,
+      "fatigue": 0,
+      "note": "",
+      "savedAt": "2026-05-24T12:00:00.000Z"
+    },
+    {
+      "id": "wd_j14",
+      "date": "2026-05-22",
+      "focus": "臀腿",
+      "exercises": [
+        {
+          "id": "we_j70",
+          "exerciseId": "ex_smith_squat",
+          "name": "史密斯深蹲",
+          "sets": [
+            {
+              "id": "set_j260",
+              "weightKg": 5,
+              "reps": 15,
+              "done": true
+            },
+            {
+              "id": "set_j261",
+              "weightKg": 7.5,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j262",
+              "weightKg": 7.5,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j263",
+              "weightKg": 10,
+              "reps": 8,
+              "done": true
+            }
+          ]
+        },
+        {
+          "id": "we_j71",
+          "exerciseId": "ex_bb_dl",
+          "name": "杠铃硬拉",
+          "sets": [
+            {
+              "id": "set_j264",
+              "weightKg": 2.5,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j265",
+              "weightKg": 5,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j266",
+              "weightKg": 5,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j267",
+              "weightKg": 5,
+              "reps": 12,
+              "done": true
+            }
+          ],
+          "note": "自由硬拉；原记 2.5-5kg 12×4，按递增理解"
+        },
+        {
+          "id": "we_j72",
+          "exerciseId": "ex_hip_thrust",
+          "name": "臀推",
+          "sets": [
+            {
+              "id": "set_j268",
+              "weightKg": 0,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j269",
+              "weightKg": 2.5,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j270",
+              "weightKg": 5,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j271",
+              "weightKg": 5,
+              "reps": 12,
+              "done": true
+            }
+          ]
+        },
+        {
+          "id": "we_j73",
+          "exerciseId": "ex_bosu_leg_raise",
+          "name": "波速球举腿",
+          "sets": [
+            {
+              "id": "set_j272",
+              "weightKg": 0,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j273",
+              "weightKg": 0,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j274",
+              "weightKg": 0,
+              "reps": 12,
+              "done": true
+            }
+          ]
+        }
+      ],
+      "performance": 0,
+      "fatigue": 5,
+      "note": "中间生病后尝试；状态很差；四动作约50分钟",
+      "savedAt": "2026-05-22T12:00:00.000Z"
+    },
+    {
+      "id": "wd_j13",
+      "date": "2026-05-18",
+      "focus": "胸肩",
+      "exercises": [
+        {
+          "id": "we_j66",
+          "exerciseId": "ex_bb_bench",
+          "name": "杠铃卧推",
+          "sets": [
+            {
+              "id": "set_j244",
+              "weightKg": 0,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j245",
+              "weightKg": 0,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j246",
+              "weightKg": 0,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j247",
+              "weightKg": 0,
+              "reps": 12,
+              "done": true
+            }
+          ],
+          "note": "自由空杆"
+        },
+        {
+          "id": "we_j67",
+          "exerciseId": "ex_db_shoulder",
+          "name": "哑铃肩推",
+          "sets": [
+            {
+              "id": "set_j248",
+              "weightKg": 5,
+              "reps": 15,
+              "done": true
+            },
+            {
+              "id": "set_j249",
+              "weightKg": 5,
+              "reps": 15,
+              "done": true
+            },
+            {
+              "id": "set_j250",
+              "weightKg": 5,
+              "reps": 15,
+              "done": true
+            },
+            {
+              "id": "set_j251",
+              "weightKg": 6,
+              "reps": 12,
+              "done": true
+            }
+          ]
+        },
+        {
+          "id": "we_j68",
+          "exerciseId": "ex_db_lateral",
+          "name": "哑铃侧平举",
+          "sets": [
+            {
+              "id": "set_j252",
+              "weightKg": 4,
+              "reps": 10,
+              "done": true
+            },
+            {
+              "id": "set_j253",
+              "weightKg": 4,
+              "reps": 10,
+              "done": true
+            },
+            {
+              "id": "set_j254",
+              "weightKg": 4,
+              "reps": 10,
+              "done": true
+            },
+            {
+              "id": "set_j255",
+              "weightKg": 4,
+              "reps": 10,
+              "done": true
+            }
+          ]
+        },
+        {
+          "id": "we_j69",
+          "exerciseId": "ex_face_pull",
+          "name": "绳索面拉",
+          "sets": [
+            {
+              "id": "set_j256",
+              "weightKg": 10,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j257",
+              "weightKg": 10,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j258",
+              "weightKg": 12.5,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j259",
+              "weightKg": 12.5,
+              "reps": 12,
+              "done": true
+            }
+          ]
+        }
+      ],
+      "performance": 0,
+      "fatigue": 0,
+      "note": "原日记绳索三头下压无重量次数，未入库",
+      "savedAt": "2026-05-18T12:00:00.000Z"
+    },
+    {
+      "id": "wd_j12",
+      "date": "2026-05-16",
+      "focus": "背",
+      "exercises": [
+        {
+          "id": "we_j62",
+          "exerciseId": "ex_assisted_pullup",
+          "name": "辅助引体向上",
+          "sets": [
+            {
+              "id": "set_j229",
+              "weightKg": 37,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j230",
+              "weightKg": 37,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j231",
+              "weightKg": 35.25,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j232",
+              "weightKg": 34,
+              "reps": 10,
+              "done": true
+            }
+          ]
+        },
+        {
+          "id": "we_j63",
+          "exerciseId": "ex_row_dual",
+          "name": "坐姿划船（双滑轮）",
+          "sets": [
+            {
+              "id": "set_j233",
+              "weightKg": 13.75,
+              "reps": 10,
+              "done": true
+            },
+            {
+              "id": "set_j234",
+              "weightKg": 13.75,
+              "reps": 10,
+              "done": true
+            },
+            {
+              "id": "set_j235",
+              "weightKg": 13.75,
+              "reps": 10,
+              "done": true
+            },
+            {
+              "id": "set_j236",
+              "weightKg": 13.75,
+              "reps": 10,
+              "done": true
+            }
+          ],
+          "note": "车把；机器计数方式与配重片档不同"
+        },
+        {
+          "id": "we_j64",
+          "exerciseId": "ex_lat_dual",
+          "name": "高位下拉（双滑轮）",
+          "sets": [
+            {
+              "id": "set_j237",
+              "weightKg": 13.75,
+              "reps": 10,
+              "done": true
+            },
+            {
+              "id": "set_j238",
+              "weightKg": 13.75,
+              "reps": 10,
+              "done": true
+            },
+            {
+              "id": "set_j239",
+              "weightKg": 13.75,
+              "reps": 10,
+              "done": true
+            },
+            {
+              "id": "set_j240",
+              "weightKg": 13.75,
+              "reps": 10,
+              "done": true
+            }
+          ],
+          "note": "高位下拉；同上机器"
+        },
+        {
+          "id": "we_j65",
+          "exerciseId": "ex_straight_arm",
+          "name": "直臂下压",
+          "sets": [
+            {
+              "id": "set_j241",
+              "weightKg": 8.75,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j242",
+              "weightKg": 8.75,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j243",
+              "weightKg": 8.75,
+              "reps": 12,
+              "done": true
+            }
+          ],
+          "note": "7.5+小片 → 8.75；时间不够提前结束"
+        }
+      ],
+      "performance": 0,
+      "fatigue": 0,
+      "note": "来不及，提前结束",
+      "savedAt": "2026-05-16T12:00:00.000Z"
+    },
+    {
+      "id": "wd_j11",
+      "date": "2026-05-14",
+      "focus": "臀腿",
+      "exercises": [
+        {
+          "id": "we_j57",
+          "exerciseId": "ex_smith_squat",
+          "name": "史密斯深蹲",
+          "sets": [
+            {
+              "id": "set_j214",
+              "weightKg": 7.5,
+              "reps": 15,
+              "done": true
+            },
+            {
+              "id": "set_j215",
+              "weightKg": 10,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j216",
+              "weightKg": 10,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j217",
+              "weightKg": 12.5,
+              "reps": 8,
+              "done": true
+            }
+          ],
+          "note": "杠约13.6kg；太喘，不敢蹲太深"
+        },
+        {
+          "id": "we_j58",
+          "exerciseId": "ex_bb_dl",
+          "name": "杠铃硬拉",
+          "sets": [
+            {
+              "id": "set_j218",
+              "weightKg": 5,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j219",
+              "weightKg": 5,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j220",
+              "weightKg": 5,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j221",
+              "weightKg": 7.5,
+              "reps": 12,
+              "done": true
+            }
+          ]
+        },
+        {
+          "id": "we_j59",
+          "exerciseId": "ex_bulgarian",
+          "name": "保加利亚分腿蹲",
+          "sets": [
+            {
+              "id": "set_j222",
+              "weightKg": 6,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j223",
+              "weightKg": 6,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j224",
+              "weightKg": 8,
+              "reps": 12,
+              "done": true
+            }
+          ]
+        },
+        {
+          "id": "we_j60",
+          "exerciseId": "ex_hip_abduction",
+          "name": "坐姿髋外展",
+          "sets": [
+            {
+              "id": "set_j225",
+              "weightKg": 30,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j226",
+              "weightKg": 30,
+              "reps": 4,
+              "done": true
+            }
+          ],
+          "note": "原记 12+4，拆为两组"
+        },
+        {
+          "id": "we_j61",
+          "exerciseId": "ex_hip_adduction",
+          "name": "坐姿髋内收",
+          "sets": [
+            {
+              "id": "set_j227",
+              "weightKg": 15,
+              "reps": 8,
+              "done": true
+            },
+            {
+              "id": "set_j228",
+              "weightKg": 15,
+              "reps": 10,
+              "done": true
+            }
+          ]
+        }
+      ],
+      "performance": 0,
+      "fatigue": 0,
+      "note": "热身约4分钟",
+      "savedAt": "2026-05-14T12:00:00.000Z"
+    },
+    {
+      "id": "wd_j10",
+      "date": "2026-05-13",
+      "focus": "胸肩",
+      "exercises": [
+        {
+          "id": "we_j52",
+          "exerciseId": "ex_bb_bench",
+          "name": "杠铃卧推",
+          "sets": [
+            {
+              "id": "set_j194",
+              "weightKg": 0,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j195",
+              "weightKg": 0,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j196",
+              "weightKg": 0,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j197",
+              "weightKg": 0,
+              "reps": 12,
+              "done": true
+            }
+          ],
+          "note": "空杆；最后一下力竭；稳定性一般"
+        },
+        {
+          "id": "we_j53",
+          "exerciseId": "ex_smith_shoulder",
+          "name": "史密斯肩推",
+          "sets": [
+            {
+              "id": "set_j198",
+              "weightKg": 2.5,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j199",
+              "weightKg": 2.5,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j200",
+              "weightKg": 2.5,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j201",
+              "weightKg": 2.5,
+              "reps": 10,
+              "done": true
+            }
+          ]
+        },
+        {
+          "id": "we_j54",
+          "exerciseId": "ex_db_lateral",
+          "name": "哑铃侧平举",
+          "sets": [
+            {
+              "id": "set_j202",
+              "weightKg": 2.5,
+              "reps": 15,
+              "done": true
+            },
+            {
+              "id": "set_j203",
+              "weightKg": 2.5,
+              "reps": 15,
+              "done": true
+            },
+            {
+              "id": "set_j204",
+              "weightKg": 4,
+              "reps": 8,
+              "done": true
+            },
+            {
+              "id": "set_j205",
+              "weightKg": 4,
+              "reps": 10,
+              "done": true
+            }
+          ]
+        },
+        {
+          "id": "we_j55",
+          "exerciseId": "ex_rear_delt_fly",
+          "name": "肩后束蝴蝶机",
+          "sets": [
+            {
+              "id": "set_j206",
+              "weightKg": 5,
+              "reps": 8,
+              "done": true
+            },
+            {
+              "id": "set_j207",
+              "weightKg": 5,
+              "reps": 8,
+              "done": true
+            },
+            {
+              "id": "set_j208",
+              "weightKg": 5,
+              "reps": 7,
+              "done": true
+            },
+            {
+              "id": "set_j209",
+              "weightKg": 5,
+              "reps": 7,
+              "done": true
+            }
+          ]
+        },
+        {
+          "id": "we_j56",
+          "exerciseId": "ex_tricep_pushdown",
+          "name": "绳索三头下压",
+          "sets": [
+            {
+              "id": "set_j210",
+              "weightKg": 8,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j211",
+              "weightKg": 8,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j212",
+              "weightKg": 8,
+              "reps": 10,
+              "done": true
+            },
+            {
+              "id": "set_j213",
+              "weightKg": 8,
+              "reps": 10,
+              "done": true
+            }
+          ]
+        }
+      ],
+      "performance": 0,
+      "fatigue": 0,
+      "note": "",
+      "savedAt": "2026-05-13T12:00:00.000Z"
+    },
+    {
+      "id": "wd_j9",
+      "date": "2026-05-09",
+      "focus": "背",
+      "exercises": [
+        {
+          "id": "we_j48",
+          "exerciseId": "ex_lat_plate",
+          "name": "高位下拉（配重片）",
+          "sets": [
+            {
+              "id": "set_j178",
+              "weightKg": 21.25,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j179",
+              "weightKg": 25,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j180",
+              "weightKg": 30,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j181",
+              "weightKg": 30,
+              "reps": 12,
+              "done": true
+            }
+          ],
+          "note": "20+小片/大片/两片(按大片×2) → 21.25/25/30"
+        },
+        {
+          "id": "we_j49",
+          "exerciseId": "ex_assisted_pullup",
+          "name": "辅助引体向上",
+          "sets": [
+            {
+              "id": "set_j182",
+              "weightKg": 38.25,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j183",
+              "weightKg": 38.25,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j184",
+              "weightKg": 37,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j185",
+              "weightKg": 37,
+              "reps": 9,
+              "done": true
+            }
+          ]
+        },
+        {
+          "id": "we_j50",
+          "exerciseId": "ex_row_plate",
+          "name": "坐姿划船（配重片）",
+          "sets": [
+            {
+              "id": "set_j186",
+              "weightKg": 25,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j187",
+              "weightKg": 25,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j188",
+              "weightKg": 25,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j189",
+              "weightKg": 25,
+              "reps": 12,
+              "done": true
+            }
+          ],
+          "note": "宽距划船 20+大片"
+        },
+        {
+          "id": "we_j51",
+          "exerciseId": "ex_straight_arm",
+          "name": "直臂下压",
+          "sets": [
+            {
+              "id": "set_j190",
+              "weightKg": 10,
+              "reps": 8,
+              "done": true
+            },
+            {
+              "id": "set_j191",
+              "weightKg": 7.5,
+              "reps": 15,
+              "done": true
+            },
+            {
+              "id": "set_j192",
+              "weightKg": 7.5,
+              "reps": 15,
+              "done": true
+            },
+            {
+              "id": "set_j193",
+              "weightKg": 7.5,
+              "reps": 15,
+              "done": true
+            }
+          ]
+        }
+      ],
+      "performance": 0,
+      "fatigue": 0,
+      "note": "",
+      "savedAt": "2026-05-09T12:00:00.000Z"
+    },
+    {
+      "id": "wd_j8",
+      "date": "2026-05-08",
+      "focus": "臀腿",
+      "exercises": [
+        {
+          "id": "we_j42",
+          "exerciseId": "ex_bb_squat",
+          "name": "杠铃深蹲",
+          "sets": [
+            {
+              "id": "set_j158",
+              "weightKg": 5,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j159",
+              "weightKg": 5,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j160",
+              "weightKg": 5,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j161",
+              "weightKg": 7.5,
+              "reps": 6,
+              "done": true
+            }
+          ],
+          "note": "自由杠铃；杠约20kg，本组记所加片数"
+        },
+        {
+          "id": "we_j43",
+          "exerciseId": "ex_rdl",
+          "name": "罗马尼亚硬拉",
+          "sets": [
+            {
+              "id": "set_j162",
+              "weightKg": 5,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j163",
+              "weightKg": 5,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j164",
+              "weightKg": 5,
+              "reps": 6,
+              "done": true
+            },
+            {
+              "id": "set_j165",
+              "weightKg": 5,
+              "reps": 8,
+              "done": true
+            }
+          ],
+          "note": "握不住"
+        },
+        {
+          "id": "we_j44",
+          "exerciseId": "ex_bulgarian",
+          "name": "保加利亚分腿蹲",
+          "sets": [
+            {
+              "id": "set_j166",
+              "weightKg": 4,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j167",
+              "weightKg": 4,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j168",
+              "weightKg": 6,
+              "reps": 8,
+              "done": true
+            }
+          ],
+          "note": "单腿负重"
+        },
+        {
+          "id": "we_j45",
+          "exerciseId": "ex_hip_thrust",
+          "name": "臀推",
+          "sets": [
+            {
+              "id": "set_j169",
+              "weightKg": 0,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j170",
+              "weightKg": 5,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j171",
+              "weightKg": 5,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j172",
+              "weightKg": 5,
+              "reps": 12,
+              "done": true
+            }
+          ]
+        },
+        {
+          "id": "we_j46",
+          "exerciseId": "ex_hip_abduction",
+          "name": "坐姿髋外展",
+          "sets": [
+            {
+              "id": "set_j173",
+              "weightKg": 30,
+              "reps": 8,
+              "done": true
+            },
+            {
+              "id": "set_j174",
+              "weightKg": 30,
+              "reps": 10,
+              "done": true
+            },
+            {
+              "id": "set_j175",
+              "weightKg": 30,
+              "reps": 12,
+              "done": true
+            }
+          ]
+        },
+        {
+          "id": "we_j47",
+          "exerciseId": "ex_hip_adduction",
+          "name": "坐姿髋内收",
+          "sets": [
+            {
+              "id": "set_j176",
+              "weightKg": 15,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j177",
+              "weightKg": 15,
+              "reps": 11,
+              "done": true
+            }
+          ]
+        }
+      ],
+      "performance": 0,
+      "fatigue": 0,
+      "note": "",
+      "savedAt": "2026-05-08T12:00:00.000Z"
+    },
+    {
+      "id": "wd_j7",
+      "date": "2026-05-07",
+      "focus": "胸肩",
+      "exercises": [
+        {
+          "id": "we_j37",
+          "exerciseId": "ex_smith_incline_bench",
+          "name": "上斜史密斯卧推",
+          "sets": [
+            {
+              "id": "set_j138",
+              "weightKg": 5,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j139",
+              "weightKg": 5,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j140",
+              "weightKg": 5,
+              "reps": 11,
+              "done": true
+            },
+            {
+              "id": "set_j141",
+              "weightKg": 5,
+              "reps": 9,
+              "done": true
+            }
+          ],
+          "note": "假期后首次；力竭"
+        },
+        {
+          "id": "we_j38",
+          "exerciseId": "ex_db_shoulder",
+          "name": "哑铃肩推",
+          "sets": [
+            {
+              "id": "set_j142",
+              "weightKg": 5,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j143",
+              "weightKg": 5,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j144",
+              "weightKg": 5,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j145",
+              "weightKg": 5,
+              "reps": 12,
+              "done": true
+            }
+          ],
+          "note": "坐姿哑铃肩推"
+        },
+        {
+          "id": "we_j39",
+          "exerciseId": "ex_db_lateral",
+          "name": "哑铃侧平举",
+          "sets": [
+            {
+              "id": "set_j146",
+              "weightKg": 2.5,
+              "reps": 15,
+              "done": true
+            },
+            {
+              "id": "set_j147",
+              "weightKg": 2.5,
+              "reps": 15,
+              "done": true
+            },
+            {
+              "id": "set_j148",
+              "weightKg": 2.5,
+              "reps": 15,
+              "done": true
+            },
+            {
+              "id": "set_j149",
+              "weightKg": 4,
+              "reps": 8,
+              "done": true
+            }
+          ]
+        },
+        {
+          "id": "we_j40",
+          "exerciseId": "ex_face_pull",
+          "name": "绳索面拉",
+          "sets": [
+            {
+              "id": "set_j150",
+              "weightKg": 12.5,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j151",
+              "weightKg": 12.5,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j152",
+              "weightKg": 12.5,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j153",
+              "weightKg": 10,
+              "reps": 12,
+              "done": true
+            }
+          ],
+          "note": "前几组标准一般；减重后标准且力竭"
+        },
+        {
+          "id": "we_j41",
+          "exerciseId": "ex_tricep_pushdown",
+          "name": "绳索三头下压",
+          "sets": [
+            {
+              "id": "set_j154",
+              "weightKg": 7.5,
+              "reps": 15,
+              "done": true
+            },
+            {
+              "id": "set_j155",
+              "weightKg": 8.75,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j156",
+              "weightKg": 8.75,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j157",
+              "weightKg": 8.75,
+              "reps": 12,
+              "done": true
+            }
+          ],
+          "note": "7.5 后加小片 → 8.75kg"
+        }
+      ],
+      "performance": 0,
+      "fatigue": 0,
+      "note": "假期回来后第一次练",
+      "savedAt": "2026-05-07T12:00:00.000Z"
+    },
+    {
+      "id": "wd_j6",
+      "date": "2026-04-30",
+      "focus": "背",
+      "exercises": [
+        {
+          "id": "we_j31",
+          "exerciseId": "ex_row_plate",
+          "name": "坐姿划船（配重片）",
+          "sets": [
+            {
+              "id": "set_j114",
+              "weightKg": 20,
+              "reps": 15,
+              "done": true
+            },
+            {
+              "id": "set_j115",
+              "weightKg": 20,
+              "reps": 15,
+              "done": true
+            },
+            {
+              "id": "set_j116",
+              "weightKg": 20,
+              "reps": 15,
+              "done": true
+            },
+            {
+              "id": "set_j117",
+              "weightKg": 22.5,
+              "reps": 15,
+              "done": true
+            }
+          ],
+          "note": "车把划船"
+        },
+        {
+          "id": "we_j32",
+          "exerciseId": "ex_assisted_pullup",
+          "name": "辅助引体向上",
+          "sets": [
+            {
+              "id": "set_j118",
+              "weightKg": 40,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j119",
+              "weightKg": 40,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j120",
+              "weightKg": 40,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j121",
+              "weightKg": 37,
+              "reps": 12,
+              "done": true
+            }
+          ]
+        },
+        {
+          "id": "we_j33",
+          "exerciseId": "ex_lat_plate",
+          "name": "高位下拉（配重片）",
+          "sets": [
+            {
+              "id": "set_j122",
+              "weightKg": 21.25,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j123",
+              "weightKg": 21.25,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j124",
+              "weightKg": 21.25,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j125",
+              "weightKg": 21.25,
+              "reps": 12,
+              "done": true
+            }
+          ],
+          "note": "宽距下拉 20kg+小片 → 21.25kg"
+        },
+        {
+          "id": "we_j34",
+          "exerciseId": "ex_reverse_row",
+          "name": "反握坐姿划船",
+          "sets": [
+            {
+              "id": "set_j126",
+              "weightKg": 15,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j127",
+              "weightKg": 15,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j128",
+              "weightKg": 15,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j129",
+              "weightKg": 15,
+              "reps": 12,
+              "done": true
+            }
+          ],
+          "note": "坐姿板凳反握划船器械"
+        },
+        {
+          "id": "we_j35",
+          "exerciseId": "ex_bb_row",
+          "name": "杠铃划船",
+          "sets": [
+            {
+              "id": "set_j130",
+              "weightKg": 0,
+              "reps": 10,
+              "done": true
+            },
+            {
+              "id": "set_j131",
+              "weightKg": 0,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j132",
+              "weightKg": 0,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j133",
+              "weightKg": 0,
+              "reps": 12,
+              "done": true
+            }
+          ],
+          "note": "空杆"
+        },
+        {
+          "id": "we_j36",
+          "exerciseId": "ex_db_curl",
+          "name": "哑铃弯举",
+          "sets": [
+            {
+              "id": "set_j134",
+              "weightKg": 4,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j135",
+              "weightKg": 4,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j136",
+              "weightKg": 4,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j137",
+              "weightKg": 5,
+              "reps": 4,
+              "done": true
+            }
+          ],
+          "note": "坐姿；自觉泵感强"
+        }
+      ],
+      "performance": 0,
+      "fatigue": 0,
+      "note": "",
+      "savedAt": "2026-04-30T12:00:00.000Z"
+    },
+    {
+      "id": "wd_j5",
+      "date": "2026-04-29",
+      "focus": "臀腿",
+      "exercises": [
+        {
+          "id": "we_j24",
+          "exerciseId": "ex_band_lateral",
+          "name": "弹力带侧抬腿",
+          "sets": [
+            {
+              "id": "set_j90",
+              "weightKg": 0,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j91",
+              "weightKg": 0,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j92",
+              "weightKg": 0,
+              "reps": 12,
+              "done": true
+            }
+          ],
+          "bilateral": true,
+          "note": "热身 12×3×双边"
+        },
+        {
+          "id": "we_j25",
+          "exerciseId": "ex_smith_squat",
+          "name": "史密斯深蹲",
+          "sets": [
+            {
+              "id": "set_j93",
+              "weightKg": 28,
+              "reps": 15,
+              "done": true
+            },
+            {
+              "id": "set_j94",
+              "weightKg": 28,
+              "reps": 15,
+              "done": true
+            },
+            {
+              "id": "set_j95",
+              "weightKg": 28,
+              "reps": 15,
+              "done": true
+            },
+            {
+              "id": "set_j96",
+              "weightKg": 10,
+              "reps": 12,
+              "done": true
+            }
+          ],
+          "note": "原记（13kg+7.5×2）≈28kg×15×3；另 10kg×12"
+        },
+        {
+          "id": "we_j26",
+          "exerciseId": "ex_bulgarian",
+          "name": "保加利亚分腿蹲",
+          "sets": [
+            {
+              "id": "set_j97",
+              "weightKg": 0,
+              "reps": 15,
+              "done": true
+            },
+            {
+              "id": "set_j98",
+              "weightKg": 0,
+              "reps": 15,
+              "done": true
+            },
+            {
+              "id": "set_j99",
+              "weightKg": 0,
+              "reps": 15,
+              "done": true
+            },
+            {
+              "id": "set_j100",
+              "weightKg": 0,
+              "reps": 15,
+              "done": true
+            }
+          ],
+          "note": "自重单边"
+        },
+        {
+          "id": "we_j27",
+          "exerciseId": "ex_bb_dl",
+          "name": "杠铃硬拉",
+          "sets": [
+            {
+              "id": "set_j101",
+              "weightKg": 0,
+              "reps": 15,
+              "done": true
+            },
+            {
+              "id": "set_j102",
+              "weightKg": 2.5,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j103",
+              "weightKg": 2.5,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j104",
+              "weightKg": 5,
+              "reps": 8,
+              "done": true
+            }
+          ],
+          "note": "空杆起；臀部发力合适但握不住"
+        },
+        {
+          "id": "we_j28",
+          "exerciseId": "ex_hip_thrust",
+          "name": "臀推",
+          "sets": [
+            {
+              "id": "set_j105",
+              "weightKg": 0,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j106",
+              "weightKg": 0,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j107",
+              "weightKg": 0,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j108",
+              "weightKg": 0,
+              "reps": 12,
+              "done": true
+            }
+          ]
+        },
+        {
+          "id": "we_j29",
+          "exerciseId": "ex_hip_abduction",
+          "name": "坐姿髋外展",
+          "sets": [
+            {
+              "id": "set_j109",
+              "weightKg": 30,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j110",
+              "weightKg": 30,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j111",
+              "weightKg": 35,
+              "reps": 8,
+              "done": true
+            }
+          ]
+        },
+        {
+          "id": "we_j30",
+          "exerciseId": "ex_hip_adduction",
+          "name": "坐姿髋内收",
+          "sets": [
+            {
+              "id": "set_j112",
+              "weightKg": 10,
+              "reps": 15,
+              "done": true
+            },
+            {
+              "id": "set_j113",
+              "weightKg": 10,
+              "reps": 15,
+              "done": true
+            }
+          ]
+        }
+      ],
+      "performance": 0,
+      "fatigue": 0,
+      "note": "",
+      "savedAt": "2026-04-29T12:00:00.000Z"
+    },
+    {
+      "id": "wd_j4",
+      "date": "2026-04-27",
+      "focus": "胸肩",
+      "exercises": [
+        {
+          "id": "we_j18",
+          "exerciseId": "ex_smith_incline_bench",
+          "name": "上斜史密斯卧推",
+          "sets": [
+            {
+              "id": "set_j66",
+              "weightKg": 5,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j67",
+              "weightKg": 5,
+              "reps": 10,
+              "done": true
+            },
+            {
+              "id": "set_j68",
+              "weightKg": 5,
+              "reps": 8,
+              "done": true
+            },
+            {
+              "id": "set_j69",
+              "weightKg": 5,
+              "reps": 8,
+              "done": true
+            }
+          ],
+          "note": "逐渐力竭"
+        },
+        {
+          "id": "we_j19",
+          "exerciseId": "ex_smith_shoulder",
+          "name": "史密斯肩推",
+          "sets": [
+            {
+              "id": "set_j70",
+              "weightKg": 2.5,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j71",
+              "weightKg": 2.5,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j72",
+              "weightKg": 2.5,
+              "reps": 10,
+              "done": true
+            },
+            {
+              "id": "set_j73",
+              "weightKg": 2.5,
+              "reps": 10,
+              "done": true
+            }
+          ]
+        },
+        {
+          "id": "we_j20",
+          "exerciseId": "ex_db_lateral",
+          "name": "哑铃侧平举",
+          "sets": [
+            {
+              "id": "set_j74",
+              "weightKg": 2.5,
+              "reps": 18,
+              "done": true
+            },
+            {
+              "id": "set_j75",
+              "weightKg": 2.5,
+              "reps": 15,
+              "done": true
+            },
+            {
+              "id": "set_j76",
+              "weightKg": 2.5,
+              "reps": 15,
+              "done": true
+            },
+            {
+              "id": "set_j77",
+              "weightKg": 4,
+              "reps": 8,
+              "done": true
+            }
+          ]
+        },
+        {
+          "id": "we_j21",
+          "exerciseId": "ex_tricep_pushdown",
+          "name": "绳索三头下压",
+          "sets": [
+            {
+              "id": "set_j78",
+              "weightKg": 7.5,
+              "reps": 15,
+              "done": true
+            },
+            {
+              "id": "set_j79",
+              "weightKg": 7.5,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j80",
+              "weightKg": 7.5,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j81",
+              "weightKg": 7.5,
+              "reps": 10,
+              "done": true
+            }
+          ]
+        },
+        {
+          "id": "we_j22",
+          "exerciseId": "ex_rear_delt_fly",
+          "name": "肩后束蝴蝶机",
+          "sets": [
+            {
+              "id": "set_j82",
+              "weightKg": 5,
+              "reps": 8,
+              "done": true
+            },
+            {
+              "id": "set_j83",
+              "weightKg": 5,
+              "reps": 8,
+              "done": true
+            },
+            {
+              "id": "set_j84",
+              "weightKg": 5,
+              "reps": 7,
+              "done": true
+            },
+            {
+              "id": "set_j85",
+              "weightKg": 5,
+              "reps": 7,
+              "done": true
+            }
+          ]
+        },
+        {
+          "id": "we_j23",
+          "exerciseId": "ex_bosu_leg_raise",
+          "name": "波速球举腿",
+          "sets": [
+            {
+              "id": "set_j86",
+              "weightKg": 0,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j87",
+              "weightKg": 0,
+              "reps": 10,
+              "done": true
+            },
+            {
+              "id": "set_j88",
+              "weightKg": 0,
+              "reps": 10,
+              "done": true
+            },
+            {
+              "id": "set_j89",
+              "weightKg": 0,
+              "reps": 10,
+              "done": true
+            }
+          ]
+        }
+      ],
+      "performance": 0,
+      "fatigue": 0,
+      "note": "",
+      "savedAt": "2026-04-27T12:00:00.000Z"
+    },
+    {
+      "id": "wd_j3",
+      "date": "2026-04-26",
+      "focus": "背",
+      "exercises": [
+        {
+          "id": "we_j12",
+          "exerciseId": "ex_row_plate",
+          "name": "坐姿划船（配重片）",
+          "sets": [
+            {
+              "id": "set_j42",
+              "weightKg": 20,
+              "reps": 15,
+              "done": true
+            },
+            {
+              "id": "set_j43",
+              "weightKg": 20,
+              "reps": 15,
+              "done": true
+            },
+            {
+              "id": "set_j44",
+              "weightKg": 20,
+              "reps": 15,
+              "done": true
+            },
+            {
+              "id": "set_j45",
+              "weightKg": 20,
+              "reps": 15,
+              "done": true
+            }
+          ],
+          "note": "原记：v字把划船"
+        },
+        {
+          "id": "we_j13",
+          "exerciseId": "ex_assisted_pullup",
+          "name": "辅助引体向上",
+          "sets": [
+            {
+              "id": "set_j46",
+              "weightKg": 40,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j47",
+              "weightKg": 40,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j48",
+              "weightKg": 37.5,
+              "reps": 10,
+              "done": true
+            },
+            {
+              "id": "set_j49",
+              "weightKg": 37.5,
+              "reps": 8,
+              "done": true
+            }
+          ]
+        },
+        {
+          "id": "we_j14",
+          "exerciseId": "ex_reverse_row",
+          "name": "反握坐姿划船",
+          "sets": [
+            {
+              "id": "set_j50",
+              "weightKg": 15,
+              "reps": 10,
+              "done": true
+            },
+            {
+              "id": "set_j51",
+              "weightKg": 15,
+              "reps": 10,
+              "done": true
+            },
+            {
+              "id": "set_j52",
+              "weightKg": 15,
+              "reps": 10,
+              "done": true
+            },
+            {
+              "id": "set_j53",
+              "weightKg": 15,
+              "reps": 10,
+              "done": true
+            }
+          ],
+          "note": "坐姿板凳反握；很累"
+        },
+        {
+          "id": "we_j15",
+          "exerciseId": "ex_face_pull",
+          "name": "绳索面拉",
+          "sets": [
+            {
+              "id": "set_j54",
+              "weightKg": 10,
+              "reps": 15,
+              "done": true
+            },
+            {
+              "id": "set_j55",
+              "weightKg": 12.5,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j56",
+              "weightKg": 12.5,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j57",
+              "weightKg": 12.5,
+              "reps": 12,
+              "done": true
+            }
+          ]
+        },
+        {
+          "id": "we_j16",
+          "exerciseId": "ex_bb_row",
+          "name": "杠铃划船",
+          "sets": [
+            {
+              "id": "set_j58",
+              "weightKg": 0,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j59",
+              "weightKg": 0,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j60",
+              "weightKg": 0,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j61",
+              "weightKg": 0,
+              "reps": 10,
+              "done": true
+            }
+          ],
+          "note": "空杆"
+        },
+        {
+          "id": "we_j17",
+          "exerciseId": "ex_db_curl",
+          "name": "哑铃弯举",
+          "sets": [
+            {
+              "id": "set_j62",
+              "weightKg": 4,
+              "reps": 10,
+              "done": true
+            },
+            {
+              "id": "set_j63",
+              "weightKg": 4,
+              "reps": 10,
+              "done": true
+            },
+            {
+              "id": "set_j64",
+              "weightKg": 4,
+              "reps": 8,
+              "done": true
+            },
+            {
+              "id": "set_j65",
+              "weightKg": 4,
+              "reps": 8,
+              "done": true
+            }
+          ],
+          "note": "坐姿肱二头肌弯举"
+        }
+      ],
+      "performance": 0,
+      "fatigue": 0,
+      "note": "有氧：跑步 7km/h×1km 心率约160；8km/h×0.5km 心率约170；共约25分钟",
+      "savedAt": "2026-04-26T12:00:00.000Z"
+    },
+    {
+      "id": "wd_j2",
+      "date": "2026-04-25",
+      "focus": "臀腿",
+      "exercises": [
+        {
+          "id": "we_j6",
+          "exerciseId": "ex_band_lateral",
+          "name": "弹力带侧抬腿",
+          "sets": [
+            {
+              "id": "set_j20",
+              "weightKg": 0,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j21",
+              "weightKg": 0,
+              "reps": 12,
+              "done": true
+            }
+          ],
+          "bilateral": true,
+          "note": "热身；双边各12×2；弹力带无配重记0"
+        },
+        {
+          "id": "we_j7",
+          "exerciseId": "ex_goblet_squat",
+          "name": "高脚杯哑铃深蹲",
+          "sets": [
+            {
+              "id": "set_j22",
+              "weightKg": 8,
+              "reps": 15,
+              "done": true
+            },
+            {
+              "id": "set_j23",
+              "weightKg": 8,
+              "reps": 15,
+              "done": true
+            },
+            {
+              "id": "set_j24",
+              "weightKg": 12,
+              "reps": 15,
+              "done": true
+            },
+            {
+              "id": "set_j25",
+              "weightKg": 14,
+              "reps": 15,
+              "done": true
+            }
+          ]
+        },
+        {
+          "id": "we_j8",
+          "exerciseId": "ex_rdl",
+          "name": "罗马尼亚硬拉",
+          "sets": [
+            {
+              "id": "set_j26",
+              "weightKg": 10,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j27",
+              "weightKg": 10,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j28",
+              "weightKg": 10,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j29",
+              "weightKg": 10,
+              "reps": 12,
+              "done": true
+            }
+          ],
+          "bilateral": true,
+          "note": "哑铃双边；腿有力但手腕握不住"
+        },
+        {
+          "id": "we_j9",
+          "exerciseId": "ex_hip_adduction",
+          "name": "坐姿髋内收",
+          "sets": [
+            {
+              "id": "set_j30",
+              "weightKg": 10,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j31",
+              "weightKg": 10,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j32",
+              "weightKg": 10,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j33",
+              "weightKg": 10,
+              "reps": 12,
+              "done": true
+            }
+          ]
+        },
+        {
+          "id": "we_j10",
+          "exerciseId": "ex_hip_abduction",
+          "name": "坐姿髋外展",
+          "sets": [
+            {
+              "id": "set_j34",
+              "weightKg": 30,
+              "reps": 15,
+              "done": true
+            },
+            {
+              "id": "set_j35",
+              "weightKg": 30,
+              "reps": 15,
+              "done": true
+            },
+            {
+              "id": "set_j36",
+              "weightKg": 30,
+              "reps": 15,
+              "done": true
+            },
+            {
+              "id": "set_j37",
+              "weightKg": 30,
+              "reps": 15,
+              "done": true
+            }
+          ]
+        },
+        {
+          "id": "we_j11",
+          "exerciseId": "ex_back_extension",
+          "name": "山羊挺身",
+          "sets": [
+            {
+              "id": "set_j38",
+              "weightKg": 5,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j39",
+              "weightKg": 5,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j40",
+              "weightKg": 5,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j41",
+              "weightKg": 5,
+              "reps": 12,
+              "done": true
+            }
+          ]
+        }
+      ],
+      "performance": 0,
+      "fatigue": 0,
+      "note": "",
+      "savedAt": "2026-04-25T12:00:00.000Z"
+    },
+    {
+      "id": "wd_j1",
+      "date": "2026-04-22",
+      "focus": "胸肩",
+      "exercises": [
+        {
+          "id": "we_j1",
+          "exerciseId": "ex_smith_bench",
+          "name": "史密斯卧推",
+          "sets": [
+            {
+              "id": "set_j1",
+              "weightKg": 5,
+              "reps": 15,
+              "done": true
+            },
+            {
+              "id": "set_j2",
+              "weightKg": 5,
+              "reps": 15,
+              "done": true
+            },
+            {
+              "id": "set_j3",
+              "weightKg": 7.5,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j4",
+              "weightKg": 7.5,
+              "reps": 12,
+              "done": true
+            }
+          ],
+          "note": "需要别人辅助"
+        },
+        {
+          "id": "we_j2",
+          "exerciseId": "ex_db_incline_shoulder",
+          "name": "坐姿上斜哑铃肩推",
+          "sets": [
+            {
+              "id": "set_j5",
+              "weightKg": 4,
+              "reps": 15,
+              "done": true
+            },
+            {
+              "id": "set_j6",
+              "weightKg": 5,
+              "reps": 18,
+              "done": true
+            },
+            {
+              "id": "set_j7",
+              "weightKg": 5,
+              "reps": 18,
+              "done": true
+            },
+            {
+              "id": "set_j8",
+              "weightKg": 6,
+              "reps": 15,
+              "done": true
+            }
+          ]
+        },
+        {
+          "id": "we_j3",
+          "exerciseId": "ex_rear_delt_fly",
+          "name": "肩后束蝴蝶机",
+          "sets": [
+            {
+              "id": "set_j9",
+              "weightKg": 5,
+              "reps": 11,
+              "done": true
+            },
+            {
+              "id": "set_j10",
+              "weightKg": 5,
+              "reps": 9,
+              "done": true
+            },
+            {
+              "id": "set_j11",
+              "weightKg": 5,
+              "reps": 9,
+              "done": true
+            }
+          ],
+          "note": "自觉偏重"
+        },
+        {
+          "id": "we_j4",
+          "exerciseId": "ex_db_lateral",
+          "name": "哑铃侧平举",
+          "sets": [
+            {
+              "id": "set_j12",
+              "weightKg": 2.5,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j13",
+              "weightKg": 2.5,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j14",
+              "weightKg": 2.5,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j15",
+              "weightKg": 4,
+              "reps": 6,
+              "done": true
+            }
+          ]
+        },
+        {
+          "id": "we_j5",
+          "exerciseId": "ex_tricep_pushdown",
+          "name": "绳索三头下压",
+          "sets": [
+            {
+              "id": "set_j16",
+              "weightKg": 8.75,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j17",
+              "weightKg": 8.75,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j18",
+              "weightKg": 8.75,
+              "reps": 12,
+              "done": true
+            },
+            {
+              "id": "set_j19",
+              "weightKg": 8.75,
+              "reps": 12,
+              "done": true
+            }
+          ],
+          "note": "有点太重了"
+        }
+      ],
+      "performance": 0,
+      "fatigue": 0,
+      "note": "",
+      "savedAt": "2026-04-22T12:00:00.000Z"
+    }
+  ],
+  "weights": [],
+  "measurements": [],
+  "bodyFat": []
+}
