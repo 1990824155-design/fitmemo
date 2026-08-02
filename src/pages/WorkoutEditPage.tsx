@@ -129,7 +129,7 @@ export function WorkoutEditPage() {
                   const next = e.target.value
                   if (!next || next === workout.date) return
                   const res = updateWorkout(workout.id, { date: next })
-                  if (!res.ok) setToast(res.reason)
+                  if (res.ok === false) setToast(res.reason)
                   else setToast(`日期已改为 ${formatCnDate(next).withWeek}`)
                 }}
               />
