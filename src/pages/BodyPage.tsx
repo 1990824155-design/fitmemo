@@ -71,16 +71,18 @@ export function BodyPage() {
           ))}
         </div>
 
-        <div className="mb-4 rounded-2xl border border-on-surface/10 bg-surface-container-lowest p-4">
+        <div className="mb-4 min-w-0 overflow-hidden rounded-2xl border border-on-surface/10 bg-surface-container-lowest p-4">
           <label className="mb-2 block text-xs font-bold tracking-wider text-outline uppercase">
             日期
           </label>
-          <input
-            type="date"
-            value={date}
-            onChange={(e) => setDate(e.target.value)}
-            className="mb-4 w-full rounded-xl bg-surface-container-low px-3 py-2 outline-none"
-          />
+          <div className="mb-4 min-w-0 overflow-hidden rounded-xl bg-surface-container-low">
+            <input
+              type="date"
+              value={date}
+              onChange={(e) => setDate(e.target.value)}
+              className="box-border block w-full min-w-0 max-w-full bg-transparent px-3 py-2 outline-none"
+            />
+          </div>
 
           {tab === 'weight' && (
             <>

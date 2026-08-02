@@ -74,3 +74,11 @@ body {
 .pt-safe {
   padding-top: env(safe-area-inset-top, 0px);
 }
+
+/* 手机浏览器原生 date 控件偏宽，避免撑破卡片 */
+input[type='date'] {
+  box-sizing: border-box;
+  max-width: 100%;
+  min-width: 0;
+  width: 100%;
+}
